@@ -1,0 +1,1001 @@
+match_id,match_date,match_time,team_home,team_away,stadium,city,referee,attendance,result
+1,6/16/2026,7:10 AM,Poland,Guadeloupe,etc.,Pruszcz Gdański,Isobel Cowdrey,35263,Draw
+2,6/29/2026,2:35 AM,Japan,Czech Republic,Rose Bowl,Uwajima,Cybil Helversen,60722,Draw
+3,6/10/2026,4:57 AM,Indonesia,Indonesia,MetLife Stadium,Sanana,Agnesse Barnewille,20496,Away Win
+4,7/14/2026,2:12 PM,Ecuador,Dominican Republic,etc.,Balzar,Fiorenze Covert,20782,Home Win
+5,6/9/2026,4:31 PM,Indonesia,Mali,Soldier Field,Dumandesa,Lia Krimmer,78832,Away Win
+6,6/3/2026,10:15 AM,Uganda,Tunisia,AT&T Stadium,Kabale,Ashlan Yekel,16398,Home Win
+7,6/18/2026,4:07 AM,China,South Africa,AT&T Stadium,Zhujiachang,Gaston Najara,1471,Draw
+8,7/4/2026,2:09 AM,Kenya,Indonesia,AT&T Stadium,Malikisi,Andy Coldbath,47540,Away Win
+9,7/12/2026,6:00 AM,Bolivia,Russia,Rose Bowl,Villazón,Marita Proom,90725,Home Win
+10,6/5/2026,7:04 PM,Indonesia,Poland,etc.,Sukawening,Jaymie Mingotti,2963,Draw
+11,6/15/2026,11:07 AM,China,Russia,Soldier Field,Mingshan,Christian Wix,65248,Away Win
+12,6/11/2026,7:26 PM,China,Russia,Soldier Field,Xinxian,Leland Hastilow,37332,Away Win
+13,6/29/2026,4:29 AM,China,Poland,etc.,Yanglin,Jasmina Beggini,24128,Home Win
+14,6/2/2026,5:50 AM,Philippines,Portugal,MetLife Stadium,Siaton,Melodie Foad,26441,Draw
+15,6/19/2026,4:52 PM,Bhutan,China,AT&T Stadium,Panbang,Luther Ashtonhurst,65897,Away Win
+16,7/3/2026,11:40 AM,China,Poland,etc.,Heitan,Farrel Jent,94479,Away Win
+17,6/18/2026,12:04 AM,Iran,Russia,AT&T Stadium,Garmeh,Branden Heild,41578,Draw
+18,6/22/2026,2:50 PM,Philippines,Pakistan,Soldier Field,Tupsan,Galvan Vest,89245,Home Win
+19,6/26/2026,12:02 PM,France,Ukraine,AT&T Stadium,Meaux,Cliff Poytres,26492,Away Win
+20,6/7/2026,1:07 PM,Russia,Czech Republic,etc.,Nikol’sk,Gaylord Shewery,44787,Home Win
+21,6/3/2026,1:57 AM,China,Canada,etc.,Linxi,Claudina Fiddler,16222,Away Win
+22,7/4/2026,11:36 AM,Indonesia,Mongolia,Rose Bowl,Baki,Carlita Salzberger,96010,Away Win
+23,6/24/2026,12:14 AM,Cyprus,Portugal,Soldier Field,Tála,Carmella Frangione,2519,Home Win
+24,7/12/2026,3:20 AM,Sweden,Syria,MetLife Stadium,Göteborg,Ximenes Gorce,62275,Away Win
+25,6/23/2026,8:34 AM,Russia,Japan,Rose Bowl,Spitsevka,Gayle MacKain,36698,Home Win
+26,6/6/2026,12:31 AM,Canada,Czech Republic,MetLife Stadium,Roberval,Ardra Bullus,35861,Away Win
+27,6/22/2026,10:16 PM,Chile,China,Rose Bowl,Victoria,Dorita Boler,99148,Draw
+28,6/25/2026,2:15 AM,Indonesia,Haiti,Soldier Field,Sungailiat,Billy Gabbetis,98971,Home Win
+29,6/25/2026,8:42 PM,Poland,China,MetLife Stadium,Sosnówka,Bryanty Savins,49083,Away Win
+30,6/6/2026,10:13 AM,China,Morocco,etc.,Huangjin,Lorraine Standon,83749,Draw
+31,7/8/2026,2:35 PM,Indonesia,China,AT&T Stadium,Tembau,Ada Woolpert,91089,Draw
+32,6/16/2026,5:45 PM,Libya,Russia,Soldier Field,Ghāt,Maggi Cumberledge,12547,Away Win
+33,6/1/2026,11:19 PM,Philippines,Colombia,Soldier Field,Bungsuan,Ruthi Philipard,15450,Away Win
+34,6/17/2026,3:21 AM,Palestinian Territory,France,Rose Bowl,Kafr al Labad,Dorella Woolveridge,72751,Draw
+35,6/20/2026,8:17 AM,Ukraine,Russia,Soldier Field,Yahotyn,Bobine Messier,24349,Home Win
+36,6/24/2026,1:50 PM,Mongolia,Ukraine,Soldier Field,Tögrög,Charles Joselevitz,96457,Home Win
+37,6/27/2026,11:00 PM,Azerbaijan,Indonesia,etc.,Baku,Prissie Learoid,90993,Draw
+38,6/9/2026,2:18 AM,United States,Cuba,Rose Bowl,Inglewood,Othilia Girardin,2500,Home Win
+39,6/6/2026,6:56 AM,Ireland,China,Rose Bowl,Ballisodare,Linnet Wickrath,22657,Away Win
+40,7/14/2026,12:12 AM,Cambodia,China,Rose Bowl,Ta Khmau,Marika Grieger,92750,Away Win
+41,7/10/2026,8:56 PM,South Africa,Nigeria,Rose Bowl,Burgersfort,Modestine Estabrook,89247,Away Win
+42,6/2/2026,6:34 AM,Indonesia,China,Soldier Field,Naru,Deb Hyndson,5332,Away Win
+43,6/12/2026,10:53 AM,Colombia,Russia,AT&T Stadium,Barrancas,Kellen Weddeburn,79316,Away Win
+44,6/7/2026,5:36 PM,Germany,Central African Republic,Rose Bowl,Düsseldorf,Shaina Maus,88404,Away Win
+45,6/20/2026,2:37 PM,Indonesia,Morocco,AT&T Stadium,Mungging,Pammie Catenot,91910,Draw
+46,6/30/2026,11:09 PM,China,Greece,MetLife Stadium,Xiadingjia,Oralia Nouch,4149,Home Win
+47,6/2/2026,6:48 PM,Mozambique,China,MetLife Stadium,Ressano Garcia,Elna Garriock,13832,Home Win
+48,6/14/2026,1:59 PM,France,Armenia,AT&T Stadium,Antony,Deane Dobsons,54307,Home Win
+49,7/13/2026,8:03 AM,Russia,Russia,AT&T Stadium,Khorlovo,Abbie Labbe,47325,Away Win
+50,6/13/2026,7:44 PM,Honduras,Argentina,etc.,Araulí,Cherise Aiton,21116,Draw
+51,6/20/2026,5:07 AM,Greece,Russia,Soldier Field,Ágios Matthaíos,Ethan Beel,99099,Home Win
+52,6/27/2026,9:50 PM,Uganda,Sweden,MetLife Stadium,Gombe,Fania Kobierra,21715,Draw
+53,6/22/2026,11:03 AM,Laos,China,etc.,Xam Nua,Nicole Michell,37007,Draw
+54,7/13/2026,8:04 AM,Poland,China,etc.,Puck,Maryrose De Few,39968,Away Win
+55,6/4/2026,5:56 PM,Russia,China,AT&T Stadium,Pavlovka,Tanney Jearum,5791,Draw
+56,6/2/2026,10:12 PM,Indonesia,Vietnam,Rose Bowl,Jepuro,Roscoe Whitecross,83327,Away Win
+57,6/13/2026,7:02 PM,China,Czech Republic,MetLife Stadium,Hongyanxi,Sholom Sewill,54790,Draw
+58,6/12/2026,3:07 PM,China,Philippines,Rose Bowl,Henglu,Lester Dowzell,30369,Draw
+59,6/4/2026,1:26 AM,China,China,Rose Bowl,Shaowu,Aurelia Colwill,94143,Away Win
+60,7/12/2026,3:38 AM,Philippines,Poland,MetLife Stadium,Bitaogan,Alverta Seamer,23190,Away Win
+61,6/25/2026,10:11 PM,Philippines,China,etc.,Calizo,Arnaldo Kik,78347,Draw
+62,6/25/2026,11:09 PM,China,China,Soldier Field,Yanglin,Elysia Yanshinov,96901,Draw
+63,7/11/2026,9:43 AM,China,Iran,Rose Bowl,Luqiao,Shanda Simonite,78116,Away Win
+64,7/9/2026,1:54 AM,Portugal,Vietnam,etc.,Lavadorinhos,Heidie Fibbitts,28159,Away Win
+65,7/9/2026,6:38 PM,Mongolia,Iran,MetLife Stadium,Telmin Suma,Gregor Summerlie,98495,Draw
+66,7/3/2026,5:52 AM,Iran,Saint Lucia,etc.,Bīleh Savār,Chlo Borland,81324,Draw
+67,7/1/2026,2:50 PM,China,Indonesia,AT&T Stadium,Lhabupu,Jodi Bailes,53965,Home Win
+68,6/20/2026,9:49 AM,Yemen,Russia,AT&T Stadium,Bayt ‘Adhāqah,Dore Tranter,24138,Draw
+69,6/20/2026,7:41 PM,Philippines,Russia,etc.,Esperanza,Bryn Gagen,16569,Draw
+70,6/19/2026,11:08 AM,China,Sudan,Rose Bowl,Yanjiao,Tarra Commander,94620,Draw
+71,6/15/2026,10:09 AM,Philippines,Indonesia,Rose Bowl,Caramay,Sissy Ayto,70211,Draw
+72,7/13/2026,12:45 PM,Sweden,Philippines,AT&T Stadium,Visby,Huntley Griswood,56629,Home Win
+73,6/26/2026,9:17 PM,Thailand,Poland,etc.,Phan Thong,Hakim Coaster,67576,Home Win
+74,6/11/2026,10:25 AM,Russia,Russia,MetLife Stadium,Valerianovsk,Selene Woodroffe,16509,Away Win
+75,6/28/2026,10:10 AM,Croatia,Czech Republic,AT&T Stadium,Buje,Anabelle Rodwell,50005,Away Win
+76,6/27/2026,11:52 AM,Saudi Arabia,Indonesia,MetLife Stadium,Tārūt,Micky Britnell,39381,Home Win
+77,6/6/2026,12:19 AM,Malaysia,China,Rose Bowl,Puchong,Phillip Arington,40548,Away Win
+78,6/28/2026,9:37 AM,Peru,Indonesia,MetLife Stadium,Huari,Ashlen Venus,5804,Away Win
+79,7/12/2026,11:54 PM,Russia,Albania,AT&T Stadium,Ust’-Omchug,Everett Melanaphy,14098,Draw
+80,6/11/2026,8:54 PM,Indonesia,United States,MetLife Stadium,Canga’an,Nobe Jehu,7588,Draw
+81,6/26/2026,10:34 PM,China,China,Soldier Field,Jiangkou,Stanford Elintune,22797,Draw
+82,6/9/2026,12:55 PM,Portugal,China,etc.,Aldeia de Além,Horatius Cufley,43468,Draw
+83,7/6/2026,6:10 AM,Democratic Republic of the Congo,Russia,Soldier Field,Mweka,Bran Dipple,28656,Draw
+84,6/26/2026,11:32 AM,Vietnam,Iran,Soldier Field,Pleiku,Cosmo Balfe,8925,Away Win
+85,6/2/2026,3:21 AM,United States,China,MetLife Stadium,Tacoma,Leland Pomeroy,28014,Home Win
+86,7/11/2026,7:02 PM,China,China,Rose Bowl,Yanyang,Pier Klesel,11314,Home Win
+87,6/29/2026,7:00 PM,Gambia,China,Soldier Field,Dankunku,Ertha Tyrwhitt,22685,Away Win
+88,6/19/2026,3:56 AM,Nigeria,Guadeloupe,etc.,Moriki,Kym Eliet,86749,Away Win
+89,7/9/2026,7:44 AM,China,Brazil,Rose Bowl,Da’an,Reamonn Ca,70834,Away Win
+90,6/25/2026,10:51 AM,Peru,Poland,Soldier Field,Jilili,Jessica Makiver,64428,Draw
+91,7/1/2026,12:43 PM,China,Peru,Soldier Field,Huaitu,Theodoric Kempshall,53041,Away Win
+92,6/4/2026,7:47 AM,Russia,France,Rose Bowl,Troitsk,Shandeigh Malam,5132,Draw
+93,6/5/2026,6:27 PM,South Africa,China,AT&T Stadium,Balfour,Julee Gillman,91353,Away Win
+94,6/26/2026,8:45 AM,Poland,Poland,Soldier Field,Kuryłówka,Aloysius Walden,43975,Home Win
+95,7/4/2026,12:10 AM,Colombia,Russia,AT&T Stadium,La Uvita,Shari Tate,33324,Away Win
+96,6/23/2026,1:00 AM,China,Indonesia,MetLife Stadium,Wulong,Merwyn Denyagin,69747,Draw
+97,6/27/2026,2:51 PM,Brazil,Kazakhstan,Soldier Field,Arapiraca,Michell Sporle,92870,Draw
+98,7/12/2026,4:15 PM,Russia,Egypt,AT&T Stadium,Sapernoye,Shannen Bahike,8299,Home Win
+99,6/8/2026,2:03 PM,Peru,Russia,MetLife Stadium,Santa Rosa,Ryan Cawthorne,60564,Draw
+100,6/6/2026,2:06 PM,Russia,Azerbaijan,etc.,Kedrovoye,Helen Drever,49664,Draw
+101,6/5/2026,9:37 PM,Nigeria,China,Rose Bowl,Ughelli,Helenka Tredinnick,60055,Draw
+102,6/21/2026,2:29 AM,United States,Finland,etc.,Sioux Falls,Alejandro Montel,74908,Away Win
+103,6/3/2026,5:49 PM,Indonesia,China,AT&T Stadium,Lolak,Jayme Gosney,77078,Away Win
+104,7/13/2026,1:26 AM,Sweden,Indonesia,MetLife Stadium,Stenungsund,Willette Wemyss,79220,Draw
+105,7/4/2026,7:00 PM,China,Vietnam,Rose Bowl,Xushangqiao,Robin Mullinder,29098,Draw
+106,6/25/2026,9:22 AM,Saudi Arabia,Portugal,AT&T Stadium,As Saffānīyah,Teodor MacDwyer,33235,Draw
+107,6/19/2026,12:21 AM,United States,Indonesia,Soldier Field,Evansville,Nickie Paish,74556,Home Win
+108,6/21/2026,12:46 PM,China,Philippines,MetLife Stadium,Quma,Maury Chatel,55787,Away Win
+109,7/10/2026,7:21 PM,Kazakhstan,Greece,MetLife Stadium,Taldykorgan,Jeffy Skaife,29192,Away Win
+110,7/14/2026,5:16 AM,Uzbekistan,Indonesia,Rose Bowl,Gagarin,Shayna Hands,42556,Draw
+111,6/16/2026,4:07 PM,China,Russia,Rose Bowl,Hengjie,Rae De Courtney,98000,Draw
+112,6/25/2026,3:59 AM,Sweden,China,Rose Bowl,Tyresö,Normie Zoppo,8101,Home Win
+113,6/5/2026,12:50 PM,Morocco,Syria,AT&T Stadium,Tabia,Adler Mundwell,56408,Away Win
+114,7/6/2026,1:51 PM,China,Brazil,MetLife Stadium,Miaojie,Robby Bristow,20123,Away Win
+115,7/6/2026,9:03 AM,Bolivia,Kazakhstan,etc.,Arani,Paulie Gerrels,57131,Home Win
+116,6/22/2026,11:12 PM,Cyprus,Canada,Rose Bowl,Sotíra,Willi Menzies,35202,Home Win
+117,7/10/2026,6:17 AM,Ukraine,France,Soldier Field,Varva,Wally Findon,50738,Home Win
+118,6/22/2026,3:19 PM,Argentina,China,Rose Bowl,Ancasti,Priscella Jeannot,46954,Draw
+119,6/14/2026,9:45 PM,Russia,Guam,AT&T Stadium,Shumerlya,Sadella Oakly,31416,Away Win
+120,6/16/2026,5:00 AM,China,New Zealand,MetLife Stadium,Shuidong,Faye Donson,41337,Home Win
+121,6/17/2026,3:02 AM,Portugal,China,etc.,Ribamar,Bibbye Jouaneton,86446,Draw
+122,6/5/2026,4:38 AM,Russia,Indonesia,Rose Bowl,Darovskoy,Helaina Bowfin,57384,Home Win
+123,6/19/2026,6:50 PM,Ukraine,Indonesia,etc.,Nove-Misto,Barry Stiff,64390,Home Win
+124,6/20/2026,7:20 AM,Brazil,Philippines,etc.,Cachoeiro de Itapemirim,Darci Crut,77604,Home Win
+125,6/21/2026,8:48 PM,Gambia,Bangladesh,Soldier Field,Galleh Manda,Emilee Roots,11043,Draw
+126,7/13/2026,5:38 PM,Philippines,Ukraine,Soldier Field,Dalupaon,Deborah Mountcastle,38849,Away Win
+127,6/10/2026,4:35 AM,China,Indonesia,Soldier Field,Aqqan,Dwight Borrell,91613,Home Win
+128,6/6/2026,1:43 PM,China,Japan,Soldier Field,Changpu,Shelly Antosik,31954,Home Win
+129,6/19/2026,10:58 PM,Sweden,China,AT&T Stadium,Gimo,Allegra Origan,90699,Home Win
+130,6/28/2026,8:48 AM,Poland,Costa Rica,etc.,Stupsk,Annalee Potier,90939,Home Win
+131,6/15/2026,6:43 AM,Russia,Belarus,Soldier Field,Turka,Karla FitzGilbert,7575,Draw
+132,7/2/2026,11:30 AM,Indonesia,Indonesia,etc.,Plereyan,Jasper Bourgeois,94109,Home Win
+133,6/16/2026,7:42 PM,China,Brazil,Rose Bowl,Beigang,Kenon Fri,38950,Home Win
+134,6/1/2026,5:57 AM,Honduras,China,etc.,El Socorro,Jacquenetta Lissandre,90471,Draw
+135,6/20/2026,10:08 AM,United States,Russia,AT&T Stadium,Norwalk,Kincaid Padmore,45399,Away Win
+136,6/9/2026,4:12 AM,Serbia,Philippines,Rose Bowl,Vranje,Carie Redford,79030,Home Win
+137,7/1/2026,1:11 AM,Canada,Poland,MetLife Stadium,Stony Plain,Aubrey Polle,84570,Away Win
+138,6/8/2026,9:52 AM,Sweden,China,AT&T Stadium,Hudiksvall,Prudi Fleet,86554,Home Win
+139,6/22/2026,8:25 PM,Poland,United States,etc.,Osiek nad Notecią,Elsa Fickling,7120,Away Win
+140,6/6/2026,2:47 AM,Argentina,Philippines,Soldier Field,Ushuaia,Bonnibelle Rentoll,51804,Draw
+141,6/23/2026,12:19 AM,France,Japan,AT&T Stadium,Issy-les-Moulineaux,Saw Tulleth,95762,Home Win
+142,7/4/2026,2:27 PM,Russia,Indonesia,etc.,Gamovo,Klarika Snowball,28503,Away Win
+143,6/2/2026,3:02 PM,China,Bulgaria,Rose Bowl,Heping,Sutton Beldom,40465,Away Win
+144,6/10/2026,6:47 AM,Honduras,Thailand,MetLife Stadium,Cololaca,Tarra Guinane,80662,Away Win
+145,6/16/2026,6:56 PM,China,China,AT&T Stadium,Guihuaquan,Dillie Kilfeather,61353,Away Win
+146,6/21/2026,4:11 AM,China,China,Rose Bowl,Nanyang,Skipton Harcarse,43880,Away Win
+147,6/19/2026,2:45 AM,China,Poland,Rose Bowl,Yunyang,Mackenzie Belliveau,47453,Home Win
+148,7/2/2026,1:10 PM,Indonesia,China,Rose Bowl,Asamboka,Coleen Kerby,98022,Away Win
+149,6/28/2026,7:40 AM,Finland,China,Soldier Field,Äänekoski,Rosita Kaszper,74876,Away Win
+150,7/10/2026,8:49 PM,Canada,France,Soldier Field,Gibsons,Felipa Rounsefell,88587,Home Win
+151,6/29/2026,10:22 AM,Slovenia,Brazil,Soldier Field,Notranje Gorice,Georges Fawbert,92502,Draw
+152,7/10/2026,9:17 AM,North Korea,Sweden,AT&T Stadium,Aoji-ri,Dud Wyldbore,77785,Home Win
+153,7/13/2026,10:18 PM,Nepal,Russia,MetLife Stadium,Dhangarhi,Pace Dredge,67550,Away Win
+154,6/29/2026,4:22 AM,Colombia,Canada,Rose Bowl,Junín,Hieronymus Warbys,99772,Away Win
+155,6/9/2026,9:43 AM,Poland,China,etc.,Krzeczów,Josefa Whittleton,6684,Draw
+156,7/9/2026,8:46 AM,Russia,Russia,etc.,Khorlovo,Jasmin Ringer,24709,Away Win
+157,7/4/2026,8:15 PM,Thailand,France,Soldier Field,Photharam,Florri Vurley,52694,Away Win
+158,6/23/2026,9:36 AM,Sweden,China,AT&T Stadium,Brämhult,Gerda Spick,53623,Home Win
+159,6/16/2026,12:27 AM,Honduras,United States,MetLife Stadium,Dulce Nombre,Adoree Andreasson,80594,Away Win
+160,6/1/2026,11:34 AM,Kazakhstan,Indonesia,Soldier Field,Būrabay,Maggy Waterstone,93695,Away Win
+161,6/20/2026,9:24 AM,Russia,Bosnia and Herzegovina,etc.,Kazinka,Ernesta Carillo,26202,Draw
+162,6/23/2026,6:41 PM,Japan,Russia,Rose Bowl,Shido,Mamie Doust,10164,Away Win
+163,6/4/2026,10:53 PM,East Timor,Poland,Rose Bowl,Maubara,Kellia Ormond,33504,Away Win
+164,6/20/2026,5:16 AM,Sweden,Poland,MetLife Stadium,Göteborg,Mechelle Caller,85904,Draw
+165,7/12/2026,1:45 PM,Cameroon,Barbados,MetLife Stadium,Buea,Leonhard Lowbridge,42707,Away Win
+166,6/2/2026,9:45 AM,China,Philippines,etc.,Shanghu,Vi Birkett,54209,Home Win
+167,7/2/2026,8:36 PM,Thailand,China,Soldier Field,Nikhom Kham Soi,Rosanne Glentworth,18790,Away Win
+168,6/22/2026,7:23 PM,Dominican Republic,Indonesia,etc.,Jarabacoa,Velvet Salkild,76198,Draw
+169,6/25/2026,10:53 PM,Indonesia,Philippines,Rose Bowl,Losari,Billi Berkely,57251,Away Win
+170,7/13/2026,5:31 PM,Philippines,Japan,MetLife Stadium,Santiago,Blanch Gagin,3607,Away Win
+171,6/30/2026,12:22 AM,Japan,Ireland,etc.,Sumoto,Cherish Tayt,13298,Home Win
+172,6/7/2026,4:09 PM,Argentina,China,etc.,El Soberbio,Major Carrodus,31914,Home Win
+173,6/2/2026,9:53 AM,Sweden,Indonesia,Rose Bowl,Åstorp,Harper Shetliff,54235,Draw
+174,6/30/2026,9:06 AM,Indonesia,China,MetLife Stadium,Barat,Georgena Aicheson,21706,Home Win
+175,6/25/2026,10:09 PM,Indonesia,China,MetLife Stadium,Sedandang,Dolorita Plunket,15803,Away Win
+176,7/14/2026,1:05 AM,Poland,Ukraine,etc.,Łapczyca,Hayyim Currie,14602,Draw
+177,6/19/2026,1:13 PM,Indonesia,China,etc.,Hamberang Sabrang,Pincus Whaites,54860,Home Win
+178,7/2/2026,8:29 AM,Portugal,Mexico,Rose Bowl,Lamas,Westleigh Skune,8584,Draw
+179,6/9/2026,4:24 PM,Indonesia,Mali,etc.,Cangkreng,Gwenore Dirkin,76406,Away Win
+180,6/16/2026,3:28 AM,China,Japan,MetLife Stadium,Longxian,Loren Vesty,84284,Draw
+181,7/6/2026,11:44 PM,Thailand,Portugal,Soldier Field,Nong Khai,Katti Ludron,18573,Away Win
+182,6/3/2026,1:21 PM,Russia,Japan,MetLife Stadium,Kizema,Karim Babe,75874,Away Win
+183,6/14/2026,2:39 AM,Portugal,China,etc.,Pereiro,Edwina Brookson,50726,Draw
+184,6/26/2026,9:03 PM,Egypt,Brazil,Rose Bowl,Hurghada,Sigfrid Keeffe,12645,Draw
+185,7/11/2026,1:25 AM,China,Portugal,MetLife Stadium,Shinao,Dav Plumm,41305,Home Win
+186,6/20/2026,9:16 PM,China,China,Soldier Field,Baxiangshan,Rosina Suddaby,10095,Draw
+187,7/3/2026,1:55 PM,Peru,Indonesia,etc.,Santa Cruz,Rozamond Maken,81060,Away Win
+188,7/10/2026,10:23 AM,China,Indonesia,Rose Bowl,Nanxindian,Zach Lean,21173,Home Win
+189,7/6/2026,9:03 PM,Namibia,United Kingdom,Rose Bowl,Nkurenkuru,Northrop Schonfelder,20872,Away Win
+190,7/10/2026,7:40 AM,Philippines,Russia,Rose Bowl,Paraiso,Liva Caberas,32028,Away Win
+191,6/24/2026,9:26 AM,Ukraine,China,Rose Bowl,Chuhuyiv,Shandee Rivelon,62542,Draw
+192,6/21/2026,7:36 AM,Indonesia,Ukraine,Soldier Field,Sindangrasa,Jimmy McIlraith,52345,Home Win
+193,7/12/2026,4:15 AM,China,United States,MetLife Stadium,Gushi,Feodora Milella,98317,Draw
+194,6/16/2026,7:36 PM,Philippines,China,etc.,San Carlos,Lauretta Vye,26462,Away Win
+195,7/2/2026,11:17 PM,Russia,China,MetLife Stadium,Yalkhoy-Mokhk,Joell Lightollers,31599,Away Win
+196,6/15/2026,3:52 AM,Azerbaijan,Russia,etc.,Yeni Suraxanı,Currey Harteley,89993,Draw
+197,6/3/2026,8:10 AM,Indonesia,Peru,Soldier Field,Dukuhmencek Lor,Tuesday Das,67499,Home Win
+198,6/6/2026,8:47 AM,Cuba,Ethiopia,Rose Bowl,Minas,Sharia Poll,94945,Home Win
+199,6/6/2026,11:36 AM,New Zealand,China,Rose Bowl,Gore,Rhiamon Organer,97653,Away Win
+200,6/13/2026,10:10 AM,Ukraine,Colombia,AT&T Stadium,Velyka Pysarivka,Barris Ryley,26452,Away Win
+201,6/13/2026,4:47 PM,Austria,Madagascar,Soldier Field,Klagenfurt am Wörthersee,Ingemar Beggs,6045,Away Win
+202,6/14/2026,4:09 PM,China,Vietnam,MetLife Stadium,Wangjiachang,Aveline Lewerenz,30481,Away Win
+203,7/2/2026,7:02 PM,Japan,United States,Rose Bowl,Karatsu,Damara Rehor,50456,Draw
+204,6/27/2026,10:18 PM,Samoa,Russia,AT&T Stadium,Fasito‘outa,Melisa O'Loghlen,12596,Home Win
+205,6/18/2026,12:37 AM,Indonesia,Sweden,MetLife Stadium,Allealle,Brooks McCann,4175,Home Win
+206,6/10/2026,7:22 AM,Bulgaria,Kyrgyzstan,MetLife Stadium,Svoge,Seymour Whodcoat,92020,Home Win
+207,7/8/2026,9:48 PM,Poland,Kuwait,Soldier Field,Bełżyce,Stefan Beagles,65433,Home Win
+208,6/2/2026,5:36 PM,United States,Venezuela,Rose Bowl,Minneapolis,Pyotr Georgius,87543,Away Win
+209,6/5/2026,10:04 PM,Poland,United States,Soldier Field,Polkowice,Northrup Fenby,41126,Home Win
+210,6/17/2026,11:07 PM,China,Philippines,Rose Bowl,Beigang,Erik Philipeau,5829,Home Win
+211,7/11/2026,6:57 AM,China,Indonesia,AT&T Stadium,Xiyuan,Hermia Lumsdale,15527,Home Win
+212,6/18/2026,5:45 PM,China,Czech Republic,MetLife Stadium,Fufang,Jilleen Ransfield,6268,Home Win
+213,6/1/2026,12:26 AM,Palestinian Territory,Yemen,Rose Bowl,Iktābah,Rockwell St. Louis,77450,Away Win
+214,6/26/2026,9:54 AM,Philippines,Indonesia,Rose Bowl,Gibato,Fianna Wildash,5928,Home Win
+215,7/14/2026,6:38 PM,Pakistan,Belarus,Soldier Field,Mastung,Nanci Clout,63885,Away Win
+216,6/29/2026,4:59 PM,Argentina,Guatemala,AT&T Stadium,Anguil,Annnora Wastling,82464,Away Win
+217,6/21/2026,1:02 PM,Canada,Macedonia,Soldier Field,Abbotsford,Maureene Place,34150,Draw
+218,6/15/2026,3:57 AM,Brazil,United States,Soldier Field,Dois Córregos,Jody Patrick,50920,Draw
+219,6/16/2026,12:07 PM,South Africa,China,Soldier Field,Frankfort,Erasmus Harce,67375,Draw
+220,6/29/2026,4:51 AM,Russia,Russia,AT&T Stadium,Ust-Maya,Otha Skates,34808,Away Win
+221,6/15/2026,6:18 PM,Poland,Portugal,MetLife Stadium,Brudzeń Duży,Aluin Croke,91631,Draw
+222,6/7/2026,7:41 PM,Costa Rica,China,Rose Bowl,Alajuela,Helene Chawner,79149,Away Win
+223,6/17/2026,10:36 PM,Belarus,Russia,Soldier Field,Myadzyel,Giselbert Howgate,52076,Draw
+224,6/25/2026,8:17 AM,Indonesia,Albania,Rose Bowl,Sungai Raya,Burty Tutin,98628,Home Win
+225,7/4/2026,4:43 AM,China,Indonesia,Soldier Field,Qingtang,Wallas Yushachkov,82244,Draw
+226,7/10/2026,2:41 PM,Portugal,Philippines,Rose Bowl,São Pedro,Roderick Rubert,60447,Draw
+227,7/3/2026,8:39 PM,Japan,Guatemala,etc.,Otaru,Joy Ullock,27831,Draw
+228,7/6/2026,11:17 PM,Portugal,Philippines,etc.,Biscoitos,Ray Brockelsby,38529,Home Win
+229,7/12/2026,2:27 AM,Russia,Japan,Rose Bowl,Yekaterinovka,Margie Yeulet,82075,Draw
+230,6/19/2026,7:14 AM,Sweden,Nigeria,Soldier Field,Karlstad,Marty Alexander,41138,Draw
+231,6/13/2026,6:39 PM,Brazil,Ukraine,Rose Bowl,Ji Paraná,Tybalt Edwinson,68538,Draw
+232,6/11/2026,12:10 PM,China,Indonesia,Soldier Field,Shimen,Vincent Fendley,94865,Away Win
+233,6/6/2026,7:19 PM,Russia,Honduras,MetLife Stadium,Ust’-Uda,Bern Medendorp,69439,Away Win
+234,6/8/2026,7:47 PM,Brazil,France,MetLife Stadium,Lago da Pedra,Sterne Prinn,50861,Draw
+235,6/11/2026,1:33 AM,China,Philippines,etc.,Laocheng,Katha Sherred,70996,Draw
+236,7/5/2026,9:12 PM,Dominican Republic,Yemen,etc.,El Puerto,Francois Prettyjohns,54903,Draw
+237,6/14/2026,12:03 PM,Portugal,China,AT&T Stadium,Penamacor,Beilul Wellen,72898,Away Win
+238,6/15/2026,11:22 AM,France,Philippines,MetLife Stadium,Cluses,Odetta Fridlington,85245,Away Win
+239,6/9/2026,2:18 PM,Mali,Colombia,etc.,Nioro,Malanie Andrysek,85844,Home Win
+240,7/13/2026,8:28 AM,Poland,Kazakhstan,etc.,Wąsosz,Inesita Ogelbe,3905,Away Win
+241,6/16/2026,9:47 PM,South Africa,Sweden,AT&T Stadium,Ballitoville,Kynthia Demoge,61292,Away Win
+242,6/20/2026,2:49 PM,Malaysia,China,MetLife Stadium,Kuching,Dud Dreghorn,26105,Away Win
+243,6/27/2026,10:56 PM,Brazil,Saint Kitts and Nevis,Soldier Field,Satuba,Stephi Woolaston,34626,Home Win
+244,7/14/2026,1:40 PM,Brazil,Brazil,Rose Bowl,Almenara,Lindsay Pumfrey,66898,Draw
+245,6/12/2026,7:48 PM,Indonesia,China,MetLife Stadium,Leuburi,Aland Theodoris,16046,Draw
+246,7/13/2026,10:04 AM,Russia,Afghanistan,etc.,Rybnoye,Sidonnie Tilt,77121,Draw
+247,6/12/2026,10:01 PM,Russia,Indonesia,etc.,Verkhozim,Jarrod King,53123,Away Win
+248,6/27/2026,7:41 AM,China,United Kingdom,MetLife Stadium,Pandi,Raff Gerty,97372,Draw
+249,6/1/2026,12:29 PM,Papua New Guinea,Russia,AT&T Stadium,Ambunti,Cornie Garretts,87957,Away Win
+250,6/18/2026,12:13 AM,Colombia,Greece,etc.,Onzaga,Stevie Tizzard,86353,Draw
+251,6/11/2026,2:53 AM,France,China,Soldier Field,Lyon,Deanna Lacknor,68690,Home Win
+252,7/3/2026,9:48 PM,Bolivia,Iran,AT&T Stadium,Padilla,Tommy Gue,92533,Away Win
+253,6/23/2026,7:24 AM,Norway,France,AT&T Stadium,Drammen,Ardene Pamplin,52522,Away Win
+254,6/7/2026,9:34 AM,Poland,Portugal,MetLife Stadium,Piasek,Kordula Vlahos,75671,Home Win
+255,6/12/2026,3:12 AM,Philippines,China,etc.,Bulualto,Lin Calverd,8906,Away Win
+256,6/4/2026,1:38 AM,China,Ireland,AT&T Stadium,Jiyang,Valaree Kauschke,6483,Draw
+257,6/21/2026,5:07 PM,Thailand,Poland,Soldier Field,Lue Amnat,Laure Caswall,38194,Away Win
+258,6/12/2026,12:30 PM,Russia,Botswana,etc.,Znamenskoye,Lulita O'Rafferty,45913,Away Win
+259,7/8/2026,6:52 AM,Tanzania,Indonesia,MetLife Stadium,Kasulu,Erin Emmert,32161,Home Win
+260,6/28/2026,1:03 PM,Brazil,Poland,etc.,Caçapava do Sul,Thom Braidford,40763,Home Win
+261,7/8/2026,8:51 PM,Peru,China,etc.,Mamara,Gregorio Bompass,79741,Home Win
+262,6/24/2026,9:17 PM,Indonesia,Colombia,etc.,Ngantru,Fina Chace,6104,Draw
+263,7/1/2026,12:02 PM,Ecuador,Philippines,AT&T Stadium,Machachi,Cory Odam,27814,Home Win
+264,6/12/2026,6:02 AM,Croatia,Indonesia,AT&T Stadium,Jelisavac,Gardiner Wardley,51285,Away Win
+265,6/29/2026,6:39 AM,Vietnam,Vietnam,AT&T Stadium,Thới Bình,Chuck Old,13887,Away Win
+266,7/13/2026,9:38 AM,Nicaragua,China,Soldier Field,Masatepe,Ottilie Dubery,86845,Draw
+267,6/26/2026,9:50 PM,Thailand,Russia,MetLife Stadium,Senangkhanikhom,Jacky Sarver,18064,Away Win
+268,7/7/2026,6:26 PM,Honduras,China,Soldier Field,Villa Nueva,Margarita Dorman,38237,Home Win
+269,6/22/2026,5:41 AM,Trinidad and Tobago,Indonesia,Rose Bowl,Scarborough,Salvatore Hatchell,99615,Away Win
+270,6/8/2026,6:40 PM,Indonesia,Portugal,AT&T Stadium,Lubuk Sikaping,Roze Eddowis,47091,Away Win
+271,6/26/2026,8:25 PM,Dominican Republic,Thailand,Soldier Field,El Peñón,Burch Whetton,23767,Draw
+272,7/1/2026,3:05 PM,Saudi Arabia,France,etc.,Al Hufūf,Lyssa Toppin,12478,Away Win
+273,6/23/2026,5:28 AM,China,Poland,AT&T Stadium,Pingshan,Berty Dugue,50722,Draw
+274,7/13/2026,9:09 AM,Russia,Russia,Rose Bowl,Bezenchuk,Cordy Chell,18715,Away Win
+275,7/10/2026,4:33 AM,Indonesia,Indonesia,MetLife Stadium,Titab,Binky Amy,32968,Draw
+276,6/4/2026,5:09 PM,Angola,Svalbard and Jan Mayen,Soldier Field,Camacupa,Barnabe Naris,66010,Home Win
+277,6/25/2026,8:20 AM,United States,China,MetLife Stadium,Racine,Selene MacCardle,38332,Home Win
+278,7/9/2026,11:29 PM,Mexico,Vietnam,MetLife Stadium,El Carmen,Desiree Jantet,30545,Away Win
+279,7/13/2026,8:27 AM,Nigeria,Mali,etc.,Ugep,Carolann Baack,72783,Draw
+280,6/24/2026,8:33 PM,Colombia,Venezuela,MetLife Stadium,Valledupar,Catlaina Signorelli,42667,Draw
+281,6/8/2026,5:19 PM,Indonesia,China,Rose Bowl,Bader,Brear Honsch,20781,Away Win
+282,6/1/2026,12:47 PM,China,Yemen,Rose Bowl,Shangganshan,Devinne Tolman,12235,Away Win
+283,6/13/2026,8:58 AM,Indonesia,Mexico,AT&T Stadium,Rapas,Holden Newson,79690,Away Win
+284,6/29/2026,12:43 PM,Indonesia,Brazil,MetLife Stadium,Muting,Selestina Tremblot,87763,Home Win
+285,6/20/2026,2:33 PM,Sweden,Central African Republic,AT&T Stadium,Stockholm,Sibel Nezey,94276,Draw
+286,6/17/2026,12:41 AM,Hungary,Sweden,AT&T Stadium,Pécs,Davie Midford,92627,Home Win
+287,6/30/2026,4:38 PM,Peru,Thailand,MetLife Stadium,Iberia,Renard Fassmann,69931,Draw
+288,6/26/2026,6:45 PM,Peru,Brazil,etc.,Pilcuyo,Cedric Roscow,57024,Home Win
+289,6/13/2026,6:54 AM,Nicaragua,Russia,Soldier Field,Tisma,Grover Maxwale,67605,Away Win
+290,6/27/2026,2:04 AM,Indonesia,United States,etc.,Rowotengah,Saudra Eller,46127,Draw
+291,6/6/2026,3:54 AM,Portugal,Indonesia,Rose Bowl,Casal,Letta McMakin,36734,Away Win
+292,6/6/2026,11:28 PM,United States,Indonesia,Rose Bowl,Cincinnati,Allison Jardin,74901,Home Win
+293,6/27/2026,7:53 PM,Japan,Indonesia,etc.,Shimoda,Geoff Willder,31503,Draw
+294,6/9/2026,10:26 PM,Vietnam,Mexico,MetLife Stadium,Đồng Mỏ,Philip Bodsworth,23599,Home Win
+295,7/13/2026,7:37 PM,Bulgaria,Slovenia,AT&T Stadium,Ardino,Brok Florio,62966,Draw
+296,6/12/2026,11:26 PM,Indonesia,China,AT&T Stadium,Kaliasin,Elna Mellanby,46441,Away Win
+297,6/15/2026,3:32 PM,Russia,Slovenia,Rose Bowl,Sivaki,Penrod Keppie,41600,Away Win
+298,6/13/2026,4:56 PM,France,China,Soldier Field,Fréjus,Rodrigo Dodswell,92284,Home Win
+299,6/19/2026,12:18 AM,Russia,Zimbabwe,Rose Bowl,Protvino,Jermaine Ibbotson,38637,Home Win
+300,7/2/2026,10:02 AM,China,Colombia,Soldier Field,Malianzhuang,Kristen Merrigan,40818,Home Win
+301,7/6/2026,2:16 PM,Paraguay,Croatia,AT&T Stadium,Tacuatí,Sancho Mollnar,68641,Draw
+302,7/4/2026,7:09 AM,China,China,Rose Bowl,Fengjiang,Jerrine Logesdale,98095,Draw
+303,7/2/2026,7:52 PM,Philippines,United States,AT&T Stadium,Pulo,Harman Mixhel,49141,Away Win
+304,6/8/2026,7:28 PM,Colombia,Brazil,etc.,Medellín,Pablo Bleyman,34678,Home Win
+305,6/29/2026,12:21 AM,Ukraine,Russia,Soldier Field,Kolodenka,Archambault Esmonde,98534,Home Win
+306,7/3/2026,4:37 AM,China,Norway,Rose Bowl,Nirji,Aldon Paskin,41431,Away Win
+307,7/2/2026,7:20 AM,Philippines,China,AT&T Stadium,Sangali,Alyosha Lancastle,64043,Home Win
+308,6/21/2026,9:48 PM,China,Tanzania,Soldier Field,Songying,Zia Ingley,92836,Away Win
+309,6/4/2026,6:43 AM,China,Argentina,AT&T Stadium,Shanggan,Albie Kelledy,96289,Away Win
+310,6/10/2026,1:59 AM,China,Croatia,Soldier Field,Zhutuo,Anastassia Trever,7253,Away Win
+311,6/13/2026,3:44 PM,China,Poland,AT&T Stadium,Jinjiang,Olivero Dreng,14870,Home Win
+312,7/11/2026,1:10 PM,Peru,China,AT&T Stadium,Mucllo,Leonanie Hatchette,69584,Away Win
+313,6/17/2026,11:25 PM,Indonesia,Indonesia,MetLife Stadium,Mamasa,Consolata Rack,26350,Draw
+314,6/24/2026,9:53 PM,Russia,Indonesia,MetLife Stadium,Ostankinskiy,Collin Rushmere,83659,Away Win
+315,7/8/2026,11:52 AM,Czech Republic,Brazil,MetLife Stadium,Benešov nad Ploučnicí,Romona Ravel,93870,Home Win
+316,7/13/2026,11:36 PM,Portugal,Philippines,MetLife Stadium,Azenha,Carolin Brashier,39308,Draw
+317,6/2/2026,3:28 AM,Indonesia,China,MetLife Stadium,Citeureup,Ibbie Molesworth,2683,Draw
+318,6/2/2026,2:28 PM,Indonesia,Russia,MetLife Stadium,Karangtengah,Raffarty Casini,48098,Home Win
+319,7/11/2026,4:18 PM,Indonesia,Nicaragua,Soldier Field,Krajan Karanganyar,Gilemette McMennum,51363,Home Win
+320,6/24/2026,8:46 PM,Russia,United States,etc.,Pokrovskoye,Candra Scarsbrook,49008,Home Win
+321,7/13/2026,3:03 PM,Nigeria,China,etc.,Gujba,Gerry O'Flynn,20545,Draw
+322,6/28/2026,5:13 PM,Indonesia,Chad,MetLife Stadium,Banjar Sebual,Cacilie Swinney,48465,Draw
+323,7/11/2026,12:56 AM,Guatemala,Indonesia,MetLife Stadium,Jutiapa,Tish Stair,1654,Away Win
+324,6/30/2026,10:51 PM,Philippines,Indonesia,AT&T Stadium,España,Kinnie Elam,37422,Home Win
+325,6/24/2026,3:55 AM,Solomon Islands,Poland,etc.,Honiara,Harriette Willson,93102,Home Win
+326,6/9/2026,1:57 AM,China,Argentina,Rose Bowl,Shuikou,Gabriela Gayton,37600,Away Win
+327,6/11/2026,5:22 PM,Indonesia,Russia,etc.,Kasingan,Andris Tearney,47950,Draw
+328,6/27/2026,9:41 AM,Indonesia,China,Soldier Field,Bulusari,Burch Samworth,9956,Home Win
+329,6/3/2026,4:02 PM,France,Venezuela,MetLife Stadium,Vierzon,Gaven Perell,99531,Draw
+330,6/3/2026,9:17 AM,Sweden,Liechtenstein,etc.,Västra Frölunda,Bobbie Waterland,7614,Draw
+331,7/11/2026,7:12 PM,Japan,Democratic Republic of the Congo,Rose Bowl,Kitahiroshima,Tonie Showler,72695,Home Win
+332,6/23/2026,11:46 AM,Brazil,Peru,AT&T Stadium,Canoinhas,Alexa Opfer,98217,Away Win
+333,6/3/2026,1:08 PM,Japan,China,MetLife Stadium,Mizunami,Eden Boultwood,79848,Away Win
+334,6/22/2026,7:06 PM,Ecuador,China,AT&T Stadium,Calceta,Bertha Sturmey,49991,Draw
+335,7/5/2026,11:10 AM,Sweden,China,Rose Bowl,Sölvesborg,Rheta Lethabridge,34077,Away Win
+336,6/11/2026,9:32 AM,Philippines,Bangladesh,AT&T Stadium,Santo Domingo,Aurora Reedshaw,56335,Home Win
+337,6/14/2026,9:06 AM,Indonesia,Greece,Soldier Field,Carodok,Anatola Sworne,66644,Away Win
+338,6/21/2026,8:42 PM,Bangladesh,Armenia,etc.,Chilmāri,Cross Aim,39696,Away Win
+339,7/2/2026,12:55 AM,Philippines,China,MetLife Stadium,Lope de Vega,Cymbre Calafato,82657,Home Win
+340,7/4/2026,10:28 PM,Uzbekistan,France,Rose Bowl,Kitob,Desi Ridehalgh,38216,Away Win
+341,6/27/2026,5:20 PM,Senegal,United States,Soldier Field,Waoundé,Chancey Shulver,99653,Away Win
+342,6/9/2026,7:02 AM,China,China,Soldier Field,Tong’an,Tibold Bangle,35846,Away Win
+343,6/21/2026,9:52 AM,Canada,Poland,Soldier Field,Lévis,Andra Boynton,32978,Draw
+344,6/22/2026,11:31 AM,Poland,Philippines,etc.,Janikowo,Antonie Buey,40799,Draw
+345,7/4/2026,3:31 PM,Indonesia,Kazakhstan,Rose Bowl,Sonder,Arda Grimestone,58943,Away Win
+346,6/7/2026,3:12 PM,Japan,Chile,MetLife Stadium,Fujioka,Glad Roxbee,49622,Draw
+347,6/21/2026,2:55 PM,Botswana,China,Rose Bowl,Janeng,Thaddeus Myrick,87140,Away Win
+348,6/26/2026,10:48 AM,Dominican Republic,Indonesia,AT&T Stadium,Hondo Valle,Tymon Waterhouse,36765,Away Win
+349,7/1/2026,9:21 PM,Russia,Indonesia,etc.,Orël,Lowell Peddersen,83776,Away Win
+350,6/9/2026,8:45 PM,China,Kenya,AT&T Stadium,Henglan,Dorree Maffetti,6649,Draw
+351,7/13/2026,11:50 PM,Russia,Portugal,Soldier Field,Karpinsk,Gustie Garrod,7614,Away Win
+352,7/2/2026,9:50 PM,Mauritius,China,etc.,Flic en Flac,Tynan Mansbridge,52209,Draw
+353,6/2/2026,2:41 PM,Philippines,Portugal,MetLife Stadium,Santo Niño,Clyve Yakebowitch,17552,Draw
+354,7/11/2026,10:18 AM,Indonesia,Canada,MetLife Stadium,Bandung,Merl Derr,20601,Draw
+355,6/16/2026,5:44 PM,Vietnam,Iran,etc.,Thị Trấn Phong Thổ,Rochelle Tellenbrook,25565,Home Win
+356,6/6/2026,5:42 PM,Thailand,Indonesia,AT&T Stadium,Muang Sam Sip,Chase Manthorpe,19752,Home Win
+357,7/13/2026,3:41 PM,Russia,Russia,MetLife Stadium,Nevinnomyssk,Annamarie Scrimshaw,54161,Away Win
+358,6/11/2026,9:40 AM,China,Portugal,etc.,Hebu,Shepherd Pitchford,88406,Away Win
+359,6/20/2026,8:34 AM,China,Netherlands,AT&T Stadium,Huai’an,Doro Detoc,96578,Home Win
+360,6/5/2026,11:20 PM,China,Mexico,AT&T Stadium,Guangang,Adriano Dufton,25031,Away Win
+361,6/29/2026,4:52 AM,France,Nepal,Rose Bowl,Frontignan,Mirabella Absalom,3992,Home Win
+362,7/3/2026,9:43 PM,Philippines,China,Soldier Field,Sonquil,Daffy Hirschmann,65403,Draw
+363,6/6/2026,11:04 AM,China,Armenia,Rose Bowl,Shima,Latrina Walklate,94997,Home Win
+364,6/27/2026,4:49 PM,Cuba,United States,Soldier Field,Gibara,Allyce Mellodey,5386,Home Win
+365,6/15/2026,5:14 PM,China,China,MetLife Stadium,Hou’an,Salome Milier,46587,Away Win
+366,6/5/2026,3:49 AM,Bolivia,Brazil,Soldier Field,Uyuni,Julee Lammenga,59564,Away Win
+367,6/12/2026,1:30 AM,Argentina,Portugal,AT&T Stadium,La Plata,Laurie Gurery,36318,Away Win
+368,7/1/2026,8:48 AM,Canada,Ukraine,Soldier Field,Lac du Bonnet,Geno Brouncker,1722,Draw
+369,6/19/2026,1:08 AM,Poland,Ireland,MetLife Stadium,Sieroszewice,Courtnay Schiefersten,80742,Draw
+370,6/12/2026,9:21 PM,Poland,Poland,MetLife Stadium,Łapczyca,Anastasie Charrington,73003,Home Win
+371,6/14/2026,7:11 PM,Colombia,France,AT&T Stadium,San Martín,Karalynn Neissen,32202,Away Win
+372,7/14/2026,5:36 AM,Portugal,Indonesia,etc.,Belos Ares,Ardene Peto,29630,Away Win
+373,6/3/2026,2:34 PM,Norway,Russia,AT&T Stadium,Bodø,Alano Eltone,86484,Draw
+374,6/1/2026,1:03 PM,China,Greece,etc.,Danyang,Billy Housiaux,94374,Draw
+375,6/1/2026,7:13 PM,Chile,Germany,Rose Bowl,Paine,Ado Piscopo,9432,Away Win
+376,6/7/2026,9:00 AM,Uruguay,China,Soldier Field,Las Toscas,Fredek Mitrikhin,83170,Home Win
+377,6/30/2026,1:19 PM,United States,Indonesia,etc.,Springfield,Margaretha Stoakes,84719,Draw
+378,6/22/2026,5:16 AM,Japan,Poland,Soldier Field,Toyohama,Sasha Golson,58112,Home Win
+379,7/10/2026,10:53 PM,Philippines,Malawi,Soldier Field,Platagata,Gavan Cockerton,92803,Draw
+380,6/22/2026,10:58 PM,France,Indonesia,AT&T Stadium,Courtaboeuf,Barnie Rowson,16204,Away Win
+381,6/26/2026,11:38 PM,China,Portugal,etc.,Xindian,Jeannette Beaves,37885,Home Win
+382,7/12/2026,6:49 PM,Thailand,Brazil,etc.,Pak Phayun,Trudy Dannel,18469,Draw
+383,6/20/2026,5:05 AM,Indonesia,Iran,AT&T Stadium,Cilangkap,Rowan Leah,76620,Home Win
+384,6/2/2026,9:35 PM,Russia,Brazil,etc.,Sarana,Prudi Warrillow,61792,Draw
+385,7/10/2026,9:57 AM,China,South Korea,AT&T Stadium,Xiaoyi,Lurleen Dhillon,4293,Away Win
+386,6/23/2026,6:54 AM,Russia,Indonesia,MetLife Stadium,Kachug,Svend Gorling,16979,Draw
+387,7/3/2026,10:45 AM,France,Thailand,AT&T Stadium,Nancy,Berti Clipson,9802,Away Win
+388,6/22/2026,3:44 PM,Luxembourg,Indonesia,Rose Bowl,Garnich,Verge Roger,39568,Draw
+389,6/20/2026,6:39 PM,Thailand,Mongolia,AT&T Stadium,Pak Phli,Cory Staddon,61517,Draw
+390,6/26/2026,12:44 AM,Indonesia,Brazil,AT&T Stadium,Sukowidodo Barat,Jamill Celes,38923,Away Win
+391,7/4/2026,12:30 PM,Japan,Afghanistan,etc.,Hirado,Edmon Renison,38987,Away Win
+392,6/9/2026,1:40 PM,China,Cameroon,Rose Bowl,E’erdun Wula,Fidelity Gerrit,99139,Draw
+393,7/13/2026,3:45 PM,China,China,AT&T Stadium,Yangjiang,Elmo Winks,94780,Draw
+394,7/1/2026,4:03 AM,Japan,Philippines,etc.,Yuzawa,Stephen Emblem,64236,Away Win
+395,7/11/2026,8:11 AM,Argentina,Greece,AT&T Stadium,Rivadavia,Tonnie Giorgio,86340,Home Win
+396,7/1/2026,4:50 AM,Brazil,Poland,etc.,Envira,Bertrando Marron,32287,Draw
+397,7/14/2026,12:58 PM,Burkina Faso,Pakistan,MetLife Stadium,Réo,Britt Daine,29985,Away Win
+398,7/14/2026,2:46 PM,Togo,China,Rose Bowl,Tchamba,Marwin MacIlurick,36722,Draw
+399,6/29/2026,7:17 AM,Portugal,China,Soldier Field,Benavila,Emeline Snufflebottom,23418,Home Win
+400,6/6/2026,2:14 PM,Russia,Guatemala,Rose Bowl,Kushnarënkovo,Emogene Medcalf,19847,Away Win
+401,6/1/2026,2:49 PM,Philippines,China,AT&T Stadium,Bañga,Christine Corcoran,48702,Draw
+402,6/7/2026,7:43 AM,Thailand,Serbia,Rose Bowl,Pluak Daeng,Gabbi Danielis,20559,Away Win
+403,6/3/2026,11:35 PM,Philippines,Zimbabwe,AT&T Stadium,Taguisa,Aurelea Ramsbottom,29898,Home Win
+404,7/7/2026,3:15 PM,Macedonia,Tajikistan,MetLife Stadium,Ресен,Evangeline Goathrop,17646,Away Win
+405,7/13/2026,9:17 PM,China,Armenia,AT&T Stadium,Sandaohezi,Angelo Stallwood,28820,Home Win
+406,7/12/2026,4:58 AM,Argentina,China,Rose Bowl,El Arañado,Northrop Spellsworth,67232,Home Win
+407,6/5/2026,10:49 PM,Poland,China,MetLife Stadium,Debrzno,Zora Scotney,58579,Draw
+408,6/8/2026,9:29 PM,Indonesia,United Kingdom,AT&T Stadium,Cihampelas,Marlee Cragoe,18448,Draw
+409,6/26/2026,2:03 PM,Malaysia,Finland,MetLife Stadium,Tawau,Karlie Hurring,94845,Home Win
+410,6/7/2026,4:12 PM,Italy,Yemen,etc.,Genova,Zedekiah Streeten,91392,Away Win
+411,6/8/2026,8:35 AM,Portugal,Canada,Soldier Field,Ribeiro,Lanie Boscott,54271,Away Win
+412,6/5/2026,8:15 AM,United States,Brazil,Soldier Field,Frankfort,Hughie Hughlin,74807,Away Win
+413,7/6/2026,7:32 AM,China,Finland,Rose Bowl,Xin’an,Cam Trayling,35148,Away Win
+414,6/22/2026,12:50 AM,Indonesia,Brazil,Rose Bowl,Sukorejo,Ferdinand Chesswas,24836,Draw
+415,7/2/2026,6:37 PM,Indonesia,Thailand,Soldier Field,Glagahdowo,Ermina Strathearn,12244,Away Win
+416,7/12/2026,3:06 AM,Sweden,Sweden,MetLife Stadium,Hallsberg,Elonore Radoux,23602,Draw
+417,6/9/2026,4:36 AM,Sri Lanka,Philippines,etc.,Kelaniya,Anderson Hammersley,58517,Home Win
+418,7/14/2026,12:31 PM,China,China,Soldier Field,Jinhui,Ketti Piegrome,49098,Draw
+419,7/6/2026,11:37 PM,Brazil,France,Rose Bowl,São Sebastião do Passé,Stefania Rumney,67537,Away Win
+420,6/13/2026,2:32 PM,United States,Nigeria,etc.,Fullerton,Luciano Deviney,43640,Home Win
+421,6/10/2026,9:16 AM,Indonesia,France,MetLife Stadium,Bader,Kermy Timny,6097,Away Win
+422,7/1/2026,8:28 PM,Brazil,Peru,MetLife Stadium,Bezerros,Roseann Gosnold,21930,Home Win
+423,6/8/2026,6:42 AM,Sweden,Russia,Rose Bowl,Angered,Chere Harlowe,74641,Away Win
+424,6/7/2026,2:08 PM,Russia,Portugal,Soldier Field,Tomilino,Bethany Trime,81782,Home Win
+425,6/15/2026,3:13 AM,Poland,Chile,Rose Bowl,Wiślica,Randene Howles,98005,Draw
+426,6/13/2026,9:14 AM,Philippines,Syria,AT&T Stadium,De la Paz,Denice MacIlhargy,35639,Draw
+427,6/28/2026,5:54 PM,China,China,MetLife Stadium,Jiangdianzi,Edmon Mercik,32625,Draw
+428,6/10/2026,2:10 PM,Indonesia,Indonesia,AT&T Stadium,Nangewer,Casper Tune,60653,Draw
+429,6/23/2026,4:59 AM,Portugal,Greece,AT&T Stadium,Banzão,Teodoro Ramsay,87910,Home Win
+430,6/28/2026,10:23 PM,Peru,China,MetLife Stadium,Huaraz,Ellwood Nevet,32545,Home Win
+431,7/13/2026,2:20 AM,Russia,Botswana,MetLife Stadium,Ternovka,Ileana Grisdale,7052,Home Win
+432,6/8/2026,1:26 PM,Luxembourg,China,Rose Bowl,Eschweiler,Willie Maltman,29437,Away Win
+433,7/10/2026,4:09 PM,Indonesia,Iran,AT&T Stadium,Bongbong,Kory Bayford,22622,Draw
+434,6/24/2026,9:01 AM,China,China,etc.,Hutang,Gabriela Yegorchenkov,75918,Home Win
+435,6/8/2026,3:47 PM,Venezuela,Russia,AT&T Stadium,San Francisco,George Trillo,68664,Away Win
+436,6/15/2026,5:15 AM,South Korea,Indonesia,AT&T Stadium,Munsan,Dorella Baylay,67217,Away Win
+437,6/27/2026,9:59 PM,Thailand,Thailand,Soldier Field,Chiang Rai,Haydon Tarquinio,19703,Away Win
+438,7/13/2026,2:37 PM,Kazakhstan,Russia,Rose Bowl,Aral,Avery Duckels,50101,Draw
+439,7/10/2026,1:56 PM,China,Brazil,MetLife Stadium,Dayanggezhuang,Cynthy Verni,79362,Draw
+440,6/3/2026,6:23 AM,Albania,China,AT&T Stadium,Gradishtë,Melissa Parke,68661,Home Win
+441,7/1/2026,3:15 AM,Portugal,Mongolia,etc.,Serzedo,Hyacinthe Prime,8087,Home Win
+442,7/11/2026,2:06 AM,China,Serbia,Rose Bowl,Caoyan,Meriel Marchiso,82199,Away Win
+443,6/28/2026,10:58 PM,China,Indonesia,AT&T Stadium,Aimin,Tomi Lapwood,97777,Draw
+444,6/22/2026,4:30 PM,Guatemala,China,etc.,Santa Apolonia,Kimberli Rooney,59345,Home Win
+445,7/8/2026,8:13 AM,France,Denmark,AT&T Stadium,Saint-Quentin-en-Yvelines,Mead Jouanny,94417,Home Win
+446,6/18/2026,7:09 PM,Thailand,Thailand,Rose Bowl,Na Thawi,Nathanil Kupke,94601,Home Win
+447,6/4/2026,8:05 PM,Mauritius,Ukraine,etc.,Ebene,Mahalia Barrows,8420,Draw
+448,7/2/2026,1:50 AM,Colombia,China,AT&T Stadium,Jamundí,Dani Pittford,78394,Home Win
+449,6/2/2026,11:14 PM,Vietnam,Portugal,etc.,Mỏ Cày,Cully Braisted,59363,Draw
+450,6/28/2026,11:47 PM,Sweden,France,Rose Bowl,Järfälla,Whitaker Kenningley,41650,Draw
+451,6/27/2026,12:32 AM,Iran,China,MetLife Stadium,Sūrān,Pearla O'Monahan,40433,Draw
+452,6/17/2026,8:38 AM,Argentina,Indonesia,AT&T Stadium,Corral de Bustos,Meaghan Cumo,40329,Away Win
+453,6/12/2026,7:12 AM,Russia,Ireland,Soldier Field,Roza,Mattie Desborough,98184,Home Win
+454,6/13/2026,11:23 PM,China,Indonesia,AT&T Stadium,Tongzilin,Sondra Searston,73310,Draw
+455,7/2/2026,5:40 PM,Chad,Slovenia,etc.,Béboto,Ellen Sieb,26020,Home Win
+456,6/16/2026,12:40 PM,China,Cuba,AT&T Stadium,Shanggu,Alessandro Daber,25172,Away Win
+457,6/15/2026,11:06 PM,Poland,Croatia,MetLife Stadium,Miłosław,Brewster Rodrigues,90285,Draw
+458,6/23/2026,11:30 PM,Indonesia,Thailand,AT&T Stadium,Karangbadar Kidul,Karine Hoffner,66102,Home Win
+459,6/20/2026,9:27 AM,Indonesia,Portugal,AT&T Stadium,Nangkasari,Janelle Bensusan,47082,Home Win
+460,6/12/2026,6:18 PM,China,Philippines,etc.,Jinshi,Ahmad Bogaert,98006,Home Win
+461,7/1/2026,5:23 PM,Finland,Japan,etc.,Lieksa,Logan Petel,20779,Home Win
+462,6/30/2026,10:31 AM,Japan,Thailand,Rose Bowl,Ōmiya,Arleyne Roblett,74972,Away Win
+463,7/2/2026,1:36 PM,Poland,Nigeria,Rose Bowl,Malczyce,Aloysia Kunisch,63772,Home Win
+464,7/7/2026,2:16 AM,Vietnam,Samoa,etc.,Hưng Yên,Evelina Van den Hof,17501,Home Win
+465,6/2/2026,8:24 PM,France,China,AT&T Stadium,Vincennes,Izzy De Mattia,93147,Draw
+466,6/24/2026,8:40 PM,Poland,Czech Republic,MetLife Stadium,Olsztynek,Neil Baccas,11947,Away Win
+467,6/4/2026,9:43 AM,Czech Republic,Greece,AT&T Stadium,Milevsko,Reese Hirsch,61043,Home Win
+468,6/13/2026,12:41 PM,China,China,Soldier Field,Agarsin,Sibley Harrap,30638,Away Win
+469,6/12/2026,5:26 AM,Jamaica,France,AT&T Stadium,Morant Bay,Salvatore Sloley,56018,Away Win
+470,6/28/2026,11:09 AM,Aland Islands,Benin,Rose Bowl,Lemland,Red Markova,79038,Home Win
+471,6/23/2026,11:38 PM,Mauritius,Canada,Rose Bowl,Grand Bois,Teriann Kearns,1081,Home Win
+472,6/12/2026,4:23 AM,Russia,United States,Rose Bowl,Nauchnyy Gorodok,Amber Bendel,57192,Away Win
+473,7/5/2026,8:54 PM,Philippines,Bulgaria,etc.,Tumbagaan,Robinett Havenhand,3610,Draw
+474,6/3/2026,9:32 PM,Myanmar,Croatia,etc.,Hpa-an,Abel Dinsmore,65223,Draw
+475,6/17/2026,3:54 PM,Russia,Georgia,etc.,Pereslavl’-Zalesskiy,Townie Kesterton,34013,Home Win
+476,6/15/2026,11:10 PM,Czech Republic,Costa Rica,Soldier Field,Nové Strašecí,Marmaduke Thibodeaux,65426,Home Win
+477,7/11/2026,6:59 PM,Czech Republic,Argentina,MetLife Stadium,Rybí,Ros Cawood,30276,Home Win
+478,7/1/2026,4:14 PM,Brazil,South Africa,Rose Bowl,Jaguaruana,Fonsie Brise,36769,Away Win
+479,6/8/2026,4:31 AM,Thailand,Portugal,Soldier Field,Tak,Derby Matthaus,27320,Draw
+480,6/19/2026,10:47 PM,France,Russia,MetLife Stadium,Pont-Audemer,Davita Shipcott,1469,Away Win
+481,7/7/2026,3:52 PM,China,Indonesia,AT&T Stadium,Luxi,Alford Leall,52748,Away Win
+482,6/3/2026,2:09 PM,United States,Philippines,MetLife Stadium,Houston,Katleen Sabate,17353,Away Win
+483,6/7/2026,2:19 PM,Luxembourg,Ukraine,AT&T Stadium,Mamer,Tansy Morriss,36866,Home Win
+484,6/25/2026,11:16 PM,China,Poland,etc.,Xinyu,Violet Killeley,75705,Away Win
+485,6/12/2026,7:21 PM,Poland,Ukraine,AT&T Stadium,Jejkowice,Mendy Massingham,98200,Away Win
+486,6/7/2026,3:40 AM,United States,China,Soldier Field,Newark,Glen Wassell,37649,Away Win
+487,6/1/2026,9:08 AM,Luxembourg,Indonesia,Rose Bowl,Beaufort,Harlin Shears,90248,Away Win
+488,6/7/2026,1:20 AM,Egypt,Brazil,AT&T Stadium,Bi’r al ‘Abd,Kali McGlue,80013,Away Win
+489,6/4/2026,10:05 PM,Japan,Brazil,MetLife Stadium,Nakamura,Tabb Paolacci,85785,Home Win
+490,7/1/2026,3:25 AM,Indonesia,Philippines,Soldier Field,Gununglarang,Chalmers Momery,94813,Home Win
+491,6/30/2026,8:57 PM,Indonesia,Moldova,MetLife Stadium,Muting,Rhonda Dossetter,49100,Home Win
+492,6/29/2026,10:33 AM,Colombia,China,AT&T Stadium,San Luis,Allin Donalson,59156,Draw
+493,6/7/2026,10:14 PM,Bulgaria,Ethiopia,MetLife Stadium,Suvorovo,Nealy Loins,6138,Home Win
+494,6/24/2026,4:20 AM,Indonesia,United Kingdom,etc.,Maukaro,Carly Atyeo,61620,Draw
+495,6/9/2026,11:41 AM,Brazil,Swaziland,MetLife Stadium,Penha,Carolee Columbell,41833,Draw
+496,6/6/2026,7:12 PM,Indonesia,Indonesia,AT&T Stadium,Kebon,Humfried Lemmertz,91113,Draw
+497,7/14/2026,3:13 AM,Indonesia,Russia,AT&T Stadium,Sawo,Marvin MacDirmid,47575,Away Win
+498,7/5/2026,1:13 PM,Iraq,China,AT&T Stadium,Kifrī,Sherrie Wynch,78524,Home Win
+499,6/11/2026,7:47 PM,Brazil,Greece,Rose Bowl,Goiatuba,Quillan Normanvill,9043,Draw
+500,7/14/2026,1:25 AM,France,Lithuania,Rose Bowl,Orly aérogare,Norah Bartell,51698,Away Win
+501,6/13/2026,2:43 AM,China,China,Rose Bowl,Yanwo,Robinett Traise,57360,Draw
+502,6/9/2026,12:53 PM,Brazil,Ukraine,Soldier Field,Canoas,Randa McKintosh,75911,Home Win
+503,6/30/2026,10:02 PM,Indonesia,Indonesia,MetLife Stadium,Gempolan Wetan,Kristi Ackenson,77756,Away Win
+504,6/17/2026,1:58 AM,Colombia,Japan,etc.,Fosca,Antoinette Zoellner,49878,Home Win
+505,6/23/2026,12:55 PM,Philippines,Poland,MetLife Stadium,Bacong,Carson Ferencz,19478,Draw
+506,6/6/2026,9:41 AM,Philippines,Senegal,Rose Bowl,Kinatakutan,Cristabel Chillingsworth,58683,Away Win
+507,6/30/2026,5:47 PM,Russia,China,AT&T Stadium,Povorino,Jessalyn Touzey,94680,Away Win
+508,7/2/2026,10:48 AM,French Polynesia,China,Soldier Field,Papeete,Henryetta Richen,26138,Home Win
+509,6/18/2026,11:28 AM,Vietnam,China,etc.,Thị Trấn Cao Phong,Andrus Wann,67242,Home Win
+510,6/1/2026,10:10 AM,Philippines,Russia,AT&T Stadium,Balading,Ulrikaumeko Powley,27048,Away Win
+511,7/8/2026,4:38 AM,Albania,Kyrgyzstan,MetLife Stadium,Gjegjan,Bette-ann Moxom,19778,Away Win
+512,6/6/2026,12:04 PM,Japan,Sweden,Soldier Field,Hakui,Ashbey Bootyman,8597,Draw
+513,6/12/2026,11:42 PM,China,China,Soldier Field,Qijiazuo,Ailbert McCrone,4778,Away Win
+514,6/3/2026,1:48 AM,Poland,Bangladesh,etc.,Trojanów,Hubert Dellow,75952,Away Win
+515,6/23/2026,4:42 PM,China,China,MetLife Stadium,Gongqiao,Kurtis Zanuciolii,4539,Home Win
+516,6/26/2026,7:23 AM,China,Syria,Soldier Field,Yima,Jorrie Harlow,71445,Away Win
+517,6/14/2026,11:46 AM,Sweden,China,AT&T Stadium,Göteborg,Joelie Bondley,90331,Draw
+518,6/28/2026,8:25 PM,Peru,France,Soldier Field,Aco,Barbi Cicetti,24029,Away Win
+519,6/30/2026,2:40 PM,China,Costa Rica,MetLife Stadium,Wanzu,Mattie Mazillius,11931,Draw
+520,6/4/2026,10:41 AM,Philippines,Indonesia,AT&T Stadium,Lucban,Maisey Messer,86893,Home Win
+521,6/8/2026,8:55 AM,Greece,Brazil,Rose Bowl,Emporeío,Emelita Gretham,58865,Draw
+522,6/4/2026,8:28 PM,Colombia,Tajikistan,MetLife Stadium,Curumaní,Jacquenette Haresnape,67464,Draw
+523,7/7/2026,12:49 AM,Brazil,Kenya,Soldier Field,Pelotas,Trumann Abrahamson,63000,Away Win
+524,6/27/2026,4:18 PM,United States,Brazil,Rose Bowl,Mesa,Petronia Neat,48824,Draw
+525,7/13/2026,4:35 AM,China,Indonesia,MetLife Stadium,Gaoyu,Merwin Tills,52443,Home Win
+526,6/2/2026,2:17 PM,Russia,South Africa,Soldier Field,Chelbasskaya,Lexy Gair,60235,Away Win
+527,6/23/2026,2:36 PM,Philippines,Egypt,etc.,San Pedro,Tyler Battrum,70394,Draw
+528,6/10/2026,7:01 AM,Poland,Greece,etc.,Kiernozia,Dimitri Callinan,47566,Draw
+529,7/2/2026,1:25 PM,Brazil,Central African Republic,AT&T Stadium,Valença,Cristiano Tawse,44011,Draw
+530,6/10/2026,1:14 AM,China,Indonesia,Rose Bowl,Longhua,Casar Iacomo,97358,Away Win
+531,7/7/2026,6:06 AM,China,China,MetLife Stadium,Qianchuan,Cristy Louw,97582,Home Win
+532,7/4/2026,6:41 PM,Russia,Indonesia,AT&T Stadium,Kolyvan’,Anatole Algy,99648,Draw
+533,7/11/2026,5:53 PM,France,Republic of the Congo,Rose Bowl,Saint-Étienne-du-Rouvray,Erda Lindley,55934,Home Win
+534,6/21/2026,8:45 PM,China,Argentina,Rose Bowl,Xiexiong,Faunie Gonoude,33544,Home Win
+535,7/12/2026,11:37 PM,Russia,Czech Republic,etc.,Novopavlovsk,Belita Rosendorf,17410,Away Win
+536,6/23/2026,3:19 PM,China,Czech Republic,MetLife Stadium,Bao’an,Doro Robey,71572,Home Win
+537,6/11/2026,3:50 AM,China,China,Soldier Field,Zhengyangshan,Wilbur Woolcocks,62553,Draw
+538,7/6/2026,10:59 PM,Czech Republic,Philippines,MetLife Stadium,Kostelec nad Černými Lesy,Kelila Ivimy,64364,Away Win
+539,6/7/2026,6:12 PM,Dominican Republic,China,MetLife Stadium,Moca,Phaedra Heustace,40228,Draw
+540,7/13/2026,10:40 AM,China,China,AT&T Stadium,Mayanhe,Jodie Anger,42822,Draw
+541,6/10/2026,8:07 AM,Netherlands,Ukraine,AT&T Stadium,Arnhem,Boyce Asling,79431,Draw
+542,6/10/2026,10:32 AM,Portugal,Portugal,MetLife Stadium,Lamarosa,Correna Portail,29043,Away Win
+543,7/7/2026,8:11 PM,Vietnam,China,MetLife Stadium,Sadek,Renae De Dantesie,95189,Draw
+544,6/17/2026,3:16 PM,Colombia,Canada,AT&T Stadium,El Banco,Abby Krienke,52363,Draw
+545,6/23/2026,3:44 PM,China,Portugal,Soldier Field,Huaitu,Waylen Sobczak,85568,Draw
+546,6/28/2026,1:11 AM,United States,Japan,MetLife Stadium,Baltimore,Benito Yesson,86913,Draw
+547,6/3/2026,3:53 AM,Indonesia,Norway,Soldier Field,Werinama,Bentlee Rosenthaler,48138,Away Win
+548,6/13/2026,9:43 AM,Russia,Portugal,Soldier Field,Porkhov,Buddie McCombe,61277,Away Win
+549,6/20/2026,12:33 AM,Brazil,France,Soldier Field,Ipameri,Elias De Filippi,63099,Away Win
+550,6/7/2026,2:13 PM,Brazil,Sweden,etc.,Vassouras,Roselin O'Dogherty,20526,Draw
+551,6/4/2026,9:25 PM,France,China,Rose Bowl,Lille,Vere Newart,49302,Draw
+552,7/13/2026,3:50 PM,Indonesia,Netherlands,Soldier Field,Kokas,Crista Semmence,84628,Home Win
+553,6/13/2026,4:28 PM,China,Mauritius,AT&T Stadium,Nanhai,Salem Batrop,71392,Home Win
+554,6/11/2026,9:55 AM,Colombia,China,AT&T Stadium,Salgar,Thorn Roberts,48534,Away Win
+555,6/21/2026,2:56 AM,South Africa,China,etc.,Potchefstroom,Antonietta Brislawn,75253,Home Win
+556,6/3/2026,4:35 PM,Colombia,Poland,Soldier Field,Ubaté,Kurtis Foggarty,3265,Draw
+557,6/6/2026,1:51 AM,Nepal,Indonesia,MetLife Stadium,Bhadrapur,Max Piens,3325,Home Win
+558,6/3/2026,10:09 AM,Cuba,Palestinian Territory,MetLife Stadium,Aguada de Pasajeros,Modestine Quirke,20760,Home Win
+559,7/1/2026,5:24 PM,Philippines,Indonesia,etc.,Tipolo,Cherry Reide,32670,Home Win
+560,6/9/2026,12:55 PM,Thailand,China,etc.,Nong Bua Lamphu,Larry Wintour,21489,Draw
+561,6/26/2026,12:58 AM,Philippines,Tanzania,etc.,Mancilang,Dwight Konig,41049,Away Win
+562,6/13/2026,6:07 PM,Czech Republic,Venezuela,Soldier Field,Litvínovice,Nancey Carnew,63623,Home Win
+563,7/4/2026,4:36 AM,Colombia,Kazakhstan,etc.,Sahagún,Ardis Rennick,34094,Draw
+564,6/25/2026,11:43 AM,China,China,etc.,Shitouhe,Vikki Ashpole,45880,Home Win
+565,6/29/2026,5:37 AM,Poland,Colombia,AT&T Stadium,Wróblew,Byron Torra,25886,Draw
+566,6/17/2026,7:36 AM,Sweden,Thailand,MetLife Stadium,Njurunda,Ferd Tweed,23338,Away Win
+567,7/13/2026,11:36 PM,Brazil,Japan,Rose Bowl,Arapongas,Gael Nossent,64048,Draw
+568,7/5/2026,10:20 AM,Azerbaijan,Russia,Rose Bowl,Geoktschai,Moll Fairbourne,49580,Home Win
+569,7/4/2026,11:19 PM,Uzbekistan,Ukraine,Rose Bowl,Chinoz,Carri Jewett,29187,Home Win
+570,6/9/2026,6:34 AM,Russia,China,MetLife Stadium,Tsotsin-Yurt,Korney Srawley,81570,Draw
+571,6/13/2026,3:19 PM,Indonesia,Ukraine,Rose Bowl,Sangatta,Thedric Dearing,91783,Draw
+572,6/16/2026,4:32 AM,China,Philippines,MetLife Stadium,Xiaoyue,Benedicto Gainfort,15771,Away Win
+573,7/8/2026,4:57 PM,Honduras,Brazil,etc.,Las Tejeras,Standford MacRedmond,22513,Away Win
+574,6/7/2026,3:19 PM,United States,Brazil,etc.,El Paso,Cory Shier,95134,Draw
+575,7/3/2026,9:19 AM,Russia,Sierra Leone,etc.,Zuyevka,Lorri Elliston,70010,Away Win
+576,6/5/2026,5:45 PM,Indonesia,Canada,AT&T Stadium,Lasiana,Perla Anthes,54209,Draw
+577,6/4/2026,4:06 AM,Estonia,China,Soldier Field,Narva-Jõesuu,Bessie Sherwin,62140,Home Win
+578,6/5/2026,11:46 AM,China,Syria,Soldier Field,Shankeng,Elfrida Paxton,33699,Away Win
+579,6/24/2026,4:28 PM,Uganda,Indonesia,MetLife Stadium,Kyenjojo,Lainey Moyser,66473,Draw
+580,6/3/2026,10:44 PM,Luxembourg,Poland,etc.,Mertzig,Selene Szymanzyk,64030,Home Win
+581,7/4/2026,3:24 AM,Egypt,Argentina,Soldier Field,Naj‘ Ḩammādī,Kenon Milton-White,14455,Draw
+582,7/9/2026,1:03 PM,France,Colombia,Rose Bowl,Poligny,Hannie Calderbank,47678,Away Win
+583,7/8/2026,3:32 PM,Ukraine,Slovenia,Soldier Field,Starychi,Tore Spurier,1363,Draw
+584,6/4/2026,11:38 AM,Poland,Indonesia,Rose Bowl,Przecław,Ula Bougourd,91633,Away Win
+585,6/8/2026,12:04 PM,Nigeria,Honduras,Soldier Field,Mando,Taber Piggford,22870,Home Win
+586,6/8/2026,10:04 PM,Colombia,Bulgaria,AT&T Stadium,Campo de la Cruz,Abbe Harcus,91307,Home Win
+587,7/5/2026,9:16 AM,Canada,Russia,AT&T Stadium,Carbonear,Arlie Sillito,64205,Home Win
+588,7/4/2026,5:37 PM,Indonesia,Indonesia,MetLife Stadium,Sumberbakti,Sargent Fender,61884,Home Win
+589,6/11/2026,2:35 AM,Thailand,Ukraine,Rose Bowl,Pho Thong,Waylan Rosenstein,38612,Draw
+590,7/2/2026,2:52 AM,Indonesia,New Zealand,Rose Bowl,Riit,Avrom Skellen,51731,Draw
+591,7/9/2026,10:10 AM,China,Kazakhstan,MetLife Stadium,Badu,Neall Ackrill,58429,Draw
+592,6/14/2026,4:42 PM,China,Finland,etc.,Wentugaole,Ximenez Storrar,40538,Draw
+593,6/17/2026,8:20 PM,China,France,Rose Bowl,Yishui,Filippo Raymont,52917,Home Win
+594,7/1/2026,7:27 PM,Azerbaijan,Russia,Rose Bowl,Qaraçuxur,Joellen Entreis,42062,Draw
+595,6/10/2026,12:09 AM,Indonesia,Indonesia,etc.,Detupia,Cy Cooch,56294,Away Win
+596,6/19/2026,4:15 PM,Palestinian Territory,Macedonia,MetLife Stadium,Baytīn,Jerrie Fasson,40901,Away Win
+597,7/5/2026,6:52 PM,United States,China,etc.,Grand Rapids,Ruthi Murrhardt,61874,Draw
+598,6/19/2026,3:14 PM,Indonesia,Estonia,AT&T Stadium,Kampungsusah,Vinnie Filipyev,35252,Draw
+599,7/14/2026,9:32 AM,Indonesia,Venezuela,Soldier Field,Cijapar,Ewart Featherstonhaugh,33798,Away Win
+600,7/1/2026,6:21 PM,Guatemala,China,AT&T Stadium,El Jícaro,Raynell Spatoni,94886,Home Win
+601,6/16/2026,9:39 AM,Yemen,Canada,etc.,Dhahi,Alexandros Gisburne,4463,Draw
+602,6/8/2026,2:56 PM,Palestinian Territory,France,MetLife Stadium,Şānūr,Billy Escolme,78866,Away Win
+603,7/7/2026,3:13 PM,United States,Bolivia,AT&T Stadium,Grand Rapids,Clevey Buxam,73179,Away Win
+604,6/13/2026,5:29 PM,Mozambique,United States,Soldier Field,Inhambane,Willyt Sherrell,28011,Draw
+605,6/29/2026,5:07 AM,China,South Africa,Soldier Field,Baicun,Odey Iorillo,81082,Draw
+606,7/8/2026,3:12 PM,Poland,Sweden,Rose Bowl,Wilga,Joy Ebourne,48650,Home Win
+607,6/26/2026,6:07 PM,Portugal,Sweden,MetLife Stadium,Veiga,Godfry Sleath,71706,Away Win
+608,7/14/2026,11:36 PM,Ireland,China,etc.,Moville,Cherilynn Pulbrook,30171,Away Win
+609,6/4/2026,11:54 PM,Thailand,China,Soldier Field,Kut Chap,Joni Dyball,99884,Home Win
+610,6/17/2026,3:31 PM,China,Russia,Soldier Field,Zhongxing,Justina Jillard,78797,Home Win
+611,6/7/2026,11:50 PM,China,Russia,AT&T Stadium,Qingyang,Allene Wheeler,83738,Away Win
+612,7/3/2026,3:13 PM,United States,Poland,MetLife Stadium,Seattle,Keelia Breckenridge,79147,Away Win
+613,6/19/2026,7:16 AM,China,Indonesia,Soldier Field,Fushun,Myer Macellar,83638,Home Win
+614,7/4/2026,1:36 PM,Ivory Coast,Belarus,AT&T Stadium,Grand-Bassam,Gabrielle Lavies,50233,Draw
+615,7/12/2026,4:43 PM,Malaysia,Indonesia,MetLife Stadium,Melaka,Mallorie Croal,23125,Home Win
+616,6/1/2026,12:54 AM,Honduras,China,etc.,Nuevo Chamelecón,Savina Loncaster,86553,Home Win
+617,7/13/2026,2:02 AM,Kazakhstan,Ukraine,AT&T Stadium,Ilyich,Daria Bedbury,8219,Away Win
+618,6/16/2026,4:52 AM,Canada,Brazil,Rose Bowl,Harrison Brook,Morganica Storah,27782,Away Win
+619,6/25/2026,10:47 AM,China,Micronesia,AT&T Stadium,Yinghai,Bone Struther,90221,Draw
+620,6/16/2026,12:30 AM,Indonesia,Ukraine,MetLife Stadium,Wanasari Baleran,Dorey McIlmorie,62261,Away Win
+621,7/1/2026,7:00 AM,Ukraine,Finland,AT&T Stadium,Valky,Kimberley Houlridge,89904,Home Win
+622,6/21/2026,12:18 AM,Brazil,China,etc.,Medianeira,Ingrid Spottiswoode,10760,Draw
+623,7/14/2026,9:06 PM,Indonesia,Peru,Soldier Field,Darungan,Sheeree Kowal,72877,Draw
+624,6/19/2026,2:18 AM,Indonesia,Netherlands,etc.,Bogor,Gleda Goley,46803,Away Win
+625,6/10/2026,10:16 PM,Russia,Vietnam,etc.,Uchaly,Dre Beevis,22267,Draw
+626,6/21/2026,1:18 PM,United States,Nigeria,AT&T Stadium,Johnson City,Celestine Bonick,70258,Home Win
+627,6/21/2026,12:17 AM,Indonesia,Russia,MetLife Stadium,Sebuku,Roze Wreak,74259,Home Win
+628,6/23/2026,8:56 AM,Philippines,Sri Lanka,Soldier Field,Gamut,Standford Rudsdell,69033,Away Win
+629,6/26/2026,4:34 PM,Colombia,Japan,MetLife Stadium,Pitalito,Conny Laughrey,77465,Draw
+630,6/8/2026,12:11 PM,Ukraine,Brazil,Soldier Field,Kostryzhivka,Eileen Guymer,11854,Home Win
+631,6/4/2026,10:14 AM,Czech Republic,Poland,Soldier Field,Šumperk,Conchita Olliffe,99259,Home Win
+632,6/24/2026,7:30 AM,Uruguay,Philippines,MetLife Stadium,La Floresta,Reinhold Matley,24225,Away Win
+633,6/6/2026,4:17 PM,China,Thailand,Rose Bowl,Dashiqiao,Wyatt O'Brogan,52103,Away Win
+634,7/10/2026,9:38 AM,Japan,Argentina,Rose Bowl,Sukagawa,Tammie Deschlein,65658,Draw
+635,6/22/2026,10:27 AM,China,Ukraine,MetLife Stadium,Qinhe,Johnette Rubinovitch,96534,Draw
+636,7/5/2026,10:24 AM,Indonesia,Sweden,etc.,Jetak,Shaylah Oppery,39593,Draw
+637,6/20/2026,3:43 AM,Indonesia,Yemen,Rose Bowl,Cisaro,Carolus Seale,69465,Away Win
+638,6/27/2026,4:51 PM,Mexico,Cuba,MetLife Stadium,Santa Fe,Jobye Stanion,1802,Draw
+639,6/16/2026,7:47 PM,Czech Republic,Serbia,AT&T Stadium,Štěnovice,Susie Essex,80948,Home Win
+640,6/15/2026,8:41 PM,Canada,Sweden,Rose Bowl,Niverville,Rossie Battey,41223,Draw
+641,7/7/2026,7:17 AM,Indonesia,Palestinian Territory,Rose Bowl,Lete,Ara Chapell,93138,Away Win
+642,7/11/2026,6:31 AM,Guyana,China,Rose Bowl,Bartica,Harmonie Machent,39549,Draw
+643,6/17/2026,5:22 PM,China,Philippines,AT&T Stadium,Xianglong,Vivie Purle,82441,Away Win
+644,7/6/2026,10:07 PM,Indonesia,Czech Republic,Soldier Field,Bambanglipuro,Dody Greenset,62239,Away Win
+645,6/15/2026,10:55 AM,Sweden,United States,etc.,Åhus,Shawn Yarnton,31773,Away Win
+646,7/1/2026,9:38 PM,China,United States,Rose Bowl,Sangmu,Clio Walch,64966,Away Win
+647,6/21/2026,2:45 PM,Russia,Russia,Soldier Field,Topol’noye,Lacy Prozescky,72826,Draw
+648,7/8/2026,8:21 PM,Brazil,France,Soldier Field,Biguaçu,Fowler Rosentholer,95416,Draw
+649,6/24/2026,2:06 AM,China,Croatia,AT&T Stadium,Kaoshan,Violante Niesing,15979,Home Win
+650,6/16/2026,12:54 AM,Iran,France,Rose Bowl,Shiraz,Blaire Cosh,6270,Away Win
+651,7/6/2026,12:01 AM,South Africa,China,etc.,Plettenberg Bay,Jerrie Kisbey,51919,Home Win
+652,6/2/2026,5:18 PM,Portugal,Germany,AT&T Stadium,Cortinhas,Theresina Shyram,36707,Draw
+653,6/24/2026,6:54 PM,Philippines,France,AT&T Stadium,Buensuseso,Xymenes Chadwell,99706,Away Win
+654,6/29/2026,2:11 AM,China,Sweden,Soldier Field,Jiangjia,Nigel Gilstin,18723,Draw
+655,6/9/2026,8:05 AM,Colombia,Ethiopia,Rose Bowl,Linares,Zilvia Ert,71416,Draw
+656,7/4/2026,6:37 PM,Brazil,Indonesia,Rose Bowl,Resplendor,Marci Eggleson,69315,Away Win
+657,6/17/2026,7:52 AM,Japan,Poland,etc.,Neyagawa,Kiel Duddle,95359,Home Win
+658,6/28/2026,4:26 AM,Ukraine,France,Soldier Field,Staryy Merchyk,Holt Pomroy,87755,Away Win
+659,6/9/2026,10:51 PM,China,Czech Republic,Rose Bowl,Kuzhu,Walton Canny,79108,Draw
+660,6/27/2026,5:51 PM,Poland,Russia,Rose Bowl,Bieliny,Allie Emby,97180,Draw
+661,7/2/2026,8:23 PM,Portugal,Russia,Rose Bowl,Cercal,Maryanna Le Barr,21151,Home Win
+662,6/24/2026,12:28 PM,United States,Mongolia,AT&T Stadium,Delray Beach,Dominique Blues,93073,Away Win
+663,6/28/2026,8:18 PM,Finland,Argentina,etc.,Ylitornio,Ebba Barry,41731,Home Win
+664,6/21/2026,11:54 PM,Marshall Islands,Morocco,Rose Bowl,Jabat,Lula Conochie,53286,Away Win
+665,6/9/2026,9:31 AM,Russia,Russia,Soldier Field,Imeni Zhelyabova,Antonina Portt,33351,Away Win
+666,7/8/2026,7:40 PM,Eritrea,Indonesia,Soldier Field,Barentu,My Ruoss,79705,Away Win
+667,6/6/2026,8:31 PM,Portugal,Sweden,Rose Bowl,Zambujal,Farlee Cairns,43277,Home Win
+668,6/5/2026,1:51 PM,Morocco,Czech Republic,Soldier Field,Brikcha,Kennith Catteroll,84128,Home Win
+669,6/4/2026,12:33 AM,Argentina,Greece,MetLife Stadium,Villa de Soto,Augustina Bourke,7648,Home Win
+670,6/16/2026,5:14 PM,China,China,MetLife Stadium,Hefei,Dre Behr,42584,Away Win
+671,7/6/2026,12:45 PM,Indonesia,Sweden,Soldier Field,Kruengraya,Audie MacMychem,17380,Draw
+672,7/13/2026,2:23 PM,Germany,Philippines,Soldier Field,Karlsruhe,Tatiana Deppe,49282,Draw
+673,6/25/2026,10:16 PM,Netherlands,Russia,AT&T Stadium,Alphen aan den Rijn,Harrietta Corrao,27218,Away Win
+674,7/12/2026,4:44 PM,Armenia,Japan,MetLife Stadium,Ashtarak,Norry Leggett,47257,Away Win
+675,6/3/2026,9:09 PM,Cyprus,Indonesia,Soldier Field,Peristerona,Lonnie Quiddihy,36245,Away Win
+676,6/11/2026,3:47 AM,France,China,Soldier Field,Saint-Herblain,Hadrian Dabling,59140,Home Win
+677,6/15/2026,11:01 AM,Indonesia,France,etc.,Ngembel,Korey Scollick,51406,Draw
+678,6/7/2026,12:10 PM,China,Russia,MetLife Stadium,Yuguan,Madlen Chastelain,89736,Home Win
+679,6/2/2026,5:17 AM,Russia,Russia,MetLife Stadium,Lesnoy,Rudd Abendroth,72408,Away Win
+680,7/10/2026,8:12 PM,Australia,Japan,Soldier Field,Sydney,Desdemona Threlkeld,94534,Draw
+681,6/18/2026,7:02 PM,Indonesia,Panama,MetLife Stadium,Simo Satu,Cherianne Glentz,49765,Home Win
+682,6/18/2026,2:12 AM,Brazil,Russia,Rose Bowl,Bariri,Neala Fairebrother,15297,Away Win
+683,6/24/2026,4:19 AM,Russia,Vietnam,Rose Bowl,Zaraysk,Noe Hayhoe,89463,Draw
+684,6/16/2026,12:48 AM,Indonesia,Portugal,Soldier Field,Lokea,Eddie McGrowther,87184,Away Win
+685,7/6/2026,2:59 PM,Greece,Sweden,MetLife Stadium,Eleftheroúpolis,Bailey Shelly,13432,Draw
+686,6/22/2026,5:30 PM,Croatia,United States,Rose Bowl,Runović,Lane Omand,45421,Home Win
+687,6/10/2026,3:54 AM,China,China,MetLife Stadium,Yongding,Nancie Bloggett,59152,Home Win
+688,7/3/2026,7:50 PM,Poland,China,Soldier Field,Mirzec,Burt Stuer,63653,Away Win
+689,6/5/2026,8:05 AM,Indonesia,China,Rose Bowl,Bengras,Stearn Pepin,81155,Draw
+690,7/12/2026,1:26 PM,Poland,Lithuania,Rose Bowl,Rogowo,Maryrose Newhouse,91637,Draw
+691,7/8/2026,3:02 PM,Peru,France,AT&T Stadium,Lampa,Bondie Middlemist,39893,Home Win
+692,7/5/2026,12:05 AM,Argentina,Poland,Soldier Field,Chajarí,Karon Cabell,93813,Draw
+693,6/18/2026,9:27 AM,Portugal,Antigua and Barbuda,MetLife Stadium,Montijo,Truda McDowell,29110,Away Win
+694,6/17/2026,2:52 AM,Russia,Russia,MetLife Stadium,Ishim,Waldon Smewings,49880,Away Win
+695,6/17/2026,5:34 PM,South Africa,Indonesia,etc.,Rustenburg,Page Zarfat,6591,Draw
+696,7/6/2026,1:47 AM,China,Ghana,Soldier Field,Xuedian,Chelsea Rumsey,63272,Home Win
+697,6/27/2026,8:49 AM,France,Mali,MetLife Stadium,Mundolsheim,Aguie Neal,99773,Away Win
+698,7/12/2026,1:59 PM,Indonesia,Mongolia,etc.,Konga,Crin Heninghem,48726,Away Win
+699,7/4/2026,2:23 PM,China,Sweden,etc.,Fangzheng,Julee Roget,19371,Draw
+700,6/29/2026,12:47 PM,China,Sweden,AT&T Stadium,Changzheng,Agnese Staton,45419,Home Win
+701,6/5/2026,10:12 AM,Myanmar,Japan,etc.,Shwebo,Tamas McCormick,29713,Draw
+702,6/4/2026,6:16 PM,Philippines,China,Soldier Field,Tran,Malva Giannoni,67806,Away Win
+703,6/18/2026,7:30 AM,Slovenia,Russia,Soldier Field,Slovenska Bistrica,Padriac Estick,20634,Draw
+704,7/5/2026,1:38 PM,Brazil,Brazil,etc.,São José dos Pinhais,Nevin Kornilov,40561,Home Win
+705,6/3/2026,1:47 PM,Japan,China,Rose Bowl,Toyohama,Adoree Beazey,7790,Home Win
+706,6/3/2026,2:54 PM,China,Portugal,AT&T Stadium,Huancheng,Uri Kirdsch,14565,Home Win
+707,6/10/2026,12:48 AM,Philippines,Thailand,Soldier Field,Patabog,Rachele Cicccitti,79033,Away Win
+708,7/2/2026,7:58 AM,China,Poland,MetLife Stadium,Poxi,Lilas Lavender,33358,Home Win
+709,7/1/2026,12:15 PM,Brazil,Chile,etc.,Abreu e Lima,Carolynn Bellefonte,59574,Draw
+710,6/22/2026,9:37 AM,Panama,Honduras,AT&T Stadium,La Mesa,Shalne Burghill,61888,Draw
+711,6/15/2026,2:36 AM,Belarus,Micronesia,MetLife Stadium,Khatsyezhyna,Velvet Partkya,34327,Draw
+712,6/18/2026,1:01 PM,Sweden,Russia,AT&T Stadium,Vårgårda,Link Klaves,7311,Away Win
+713,7/7/2026,3:34 AM,Sweden,Swaziland,AT&T Stadium,Västra Frölunda,Bellina Chamley,46489,Away Win
+714,7/3/2026,12:56 AM,Zimbabwe,Canada,etc.,Headlands,Cristionna Wayvill,68916,Draw
+715,6/6/2026,7:46 PM,Palestinian Territory,Colombia,etc.,Sīlat al Ḩārithīyah,Yul Gearing,59733,Draw
+716,6/20/2026,9:10 PM,China,Thailand,AT&T Stadium,Guanyang,Branden Petri,86276,Home Win
+717,6/13/2026,3:45 AM,Bulgaria,Indonesia,Rose Bowl,Sapareva Banya,Ingar Bootman,49968,Home Win
+718,7/1/2026,8:19 AM,Albania,Panama,Soldier Field,Voskopojë,Henka Skelington,97151,Draw
+719,6/19/2026,6:29 PM,New Zealand,Indonesia,etc.,New Plymouth,Talyah Spours,4844,Draw
+720,6/28/2026,12:25 AM,Philippines,China,MetLife Stadium,Lumbang,Adda Exter,36835,Home Win
+721,6/21/2026,3:01 AM,Portugal,United States,Soldier Field,Lavradio,Philis Cecere,68798,Draw
+722,7/1/2026,5:44 PM,Indonesia,Montenegro,MetLife Stadium,Banjar Yehsatang,Brooke Le Friec,3344,Draw
+723,7/11/2026,4:51 PM,Nigeria,Finland,MetLife Stadium,Sauri,Simonne Merington,36081,Home Win
+724,6/23/2026,6:18 PM,China,Brazil,etc.,Shuibian,Daphne Dobbs,52708,Away Win
+725,7/2/2026,3:45 PM,Indonesia,Argentina,etc.,Tanggung,Eunice Bremen,77812,Home Win
+726,6/9/2026,12:25 PM,Nigeria,China,MetLife Stadium,Yamrat,Eadmund Screach,93701,Home Win
+727,6/11/2026,8:58 AM,Portugal,Czech Republic,AT&T Stadium,Eiriz,Edouard Filintsev,41626,Draw
+728,7/14/2026,12:55 AM,United States,Morocco,Rose Bowl,Tampa,Merola Nudde,16003,Home Win
+729,6/4/2026,10:22 PM,Central African Republic,Philippines,etc.,Sibut,Ilario Squirrell,92821,Away Win
+730,6/28/2026,12:06 PM,Canada,Indonesia,MetLife Stadium,Windsor,Daryn Eede,10504,Home Win
+731,6/15/2026,11:18 AM,China,Indonesia,AT&T Stadium,Wan’an,Kat Markovic,87826,Home Win
+732,7/12/2026,7:14 AM,China,Portugal,MetLife Stadium,Jishan,Tabor Payze,13643,Home Win
+733,7/8/2026,6:36 AM,Poland,Philippines,Soldier Field,Borzęcin,Yule Sellers,19231,Draw
+734,7/4/2026,12:51 AM,Aruba,Philippines,Rose Bowl,Angochi,Ema Fussie,65028,Away Win
+735,6/10/2026,9:09 AM,China,China,Rose Bowl,Nanyulinxi,Electra Cassidy,75678,Home Win
+736,7/14/2026,4:42 PM,Taiwan,Thailand,MetLife Stadium,Hualian,Christyna Bernardot,37504,Away Win
+737,6/11/2026,11:30 PM,Philippines,Belarus,etc.,Lianga,Rey Kleinsinger,22202,Draw
+738,6/26/2026,12:37 PM,China,Portugal,MetLife Stadium,Shuyuan Zhen,Clarine Drinkale,96770,Draw
+739,7/5/2026,1:49 PM,Burundi,Poland,Soldier Field,Rutana,Tine McKennan,93506,Draw
+740,6/10/2026,10:51 AM,Russia,Russia,etc.,Turtas,Dale Randal,71404,Draw
+741,6/22/2026,5:47 PM,Finland,China,AT&T Stadium,Kivijärvi,Lynnea Diprose,32254,Away Win
+742,7/3/2026,10:43 PM,China,Netherlands,Soldier Field,Hanbin,Crawford Rixon,43231,Away Win
+743,6/10/2026,1:04 AM,China,Japan,Soldier Field,Rouyuan,Everett Bettles,33597,Away Win
+744,6/19/2026,2:10 AM,Tunisia,Indonesia,Rose Bowl,Qal‘at al Andalus,Celestia Downing,92838,Draw
+745,6/30/2026,10:45 PM,Russia,Czech Republic,MetLife Stadium,Nizhnyaya Omka,Tamma Huxter,85913,Home Win
+746,7/7/2026,12:59 AM,Portugal,Brazil,MetLife Stadium,São Marcos da Serra,Ginnifer Ivanov,39651,Draw
+747,6/20/2026,9:29 PM,Indonesia,Belarus,MetLife Stadium,Era,Ianthe Lidgley,71973,Draw
+748,6/23/2026,6:20 PM,France,Portugal,AT&T Stadium,Saint-Gaudens,Teddy Tudbald,65196,Draw
+749,6/23/2026,8:51 PM,China,Philippines,etc.,Zhouzai,Bertina Keenlyside,89677,Away Win
+750,7/12/2026,5:42 PM,China,Russia,Rose Bowl,Tunbao,Ceciley Goggins,53636,Draw
+751,6/3/2026,11:33 PM,China,Philippines,AT&T Stadium,Yanping,Rivalee Twigge,14915,Away Win
+752,6/6/2026,2:28 AM,Indonesia,Brazil,etc.,Halimaung Jaya (F-3),Roseline Courtman,14479,Draw
+753,6/5/2026,12:43 AM,Guatemala,Philippines,MetLife Stadium,San Andrés,Lyda Guiton,55945,Home Win
+754,6/20/2026,12:06 AM,China,Guatemala,Rose Bowl,Duobaoshan,Chane Joselevitch,80716,Home Win
+755,7/1/2026,8:26 PM,Azerbaijan,Greece,Rose Bowl,Qusar,Jakob Biddiss,21898,Draw
+756,6/9/2026,5:17 AM,Sweden,East Timor,AT&T Stadium,Falun,Kass Furse,71304,Away Win
+757,6/5/2026,4:14 PM,Tunisia,Netherlands,MetLife Stadium,Akouda,Koenraad Earthfield,35266,Away Win
+758,7/10/2026,8:10 AM,Sweden,China,AT&T Stadium,Göteborg,Deina O'Shavlan,25169,Away Win
+759,7/7/2026,5:26 PM,Brazil,Israel,Soldier Field,Imperatriz,Maggie Van Der Walt,99010,Home Win
+760,6/23/2026,1:34 PM,Indonesia,El Salvador,Rose Bowl,Sengkerang Tiga,Donetta Jery,18950,Home Win
+761,7/1/2026,10:27 AM,Portugal,France,MetLife Stadium,Sobreiro,Ford Doul,98987,Away Win
+762,6/4/2026,7:53 PM,Thailand,Morocco,AT&T Stadium,Kanchanaburi,Julietta Carver,70398,Away Win
+763,6/8/2026,6:19 AM,China,China,Soldier Field,Jiancheng,Erma Terbrug,32485,Draw
+764,6/24/2026,9:15 AM,Thailand,Honduras,Soldier Field,Nakhon Si Thammarat,Gale Rosengarten,72559,Home Win
+765,7/10/2026,6:33 PM,Indonesia,Ireland,AT&T Stadium,Penitik,Lucio Bownas,51215,Away Win
+766,6/4/2026,12:02 AM,United States,Zimbabwe,etc.,Washington,Lyndy Wasiel,57978,Home Win
+767,6/18/2026,1:07 AM,Italy,Russia,MetLife Stadium,Bologna,Rey Menchenton,1448,Away Win
+768,7/3/2026,8:32 AM,Russia,Indonesia,MetLife Stadium,Ust’-Uda,Wit Brane,27692,Away Win
+769,6/10/2026,1:54 PM,Syria,Tanzania,Rose Bowl,Al Ya‘rubīyah,Seline Anfossi,70539,Home Win
+770,6/3/2026,7:40 PM,Russia,Sweden,Soldier Field,Dalmatovo,Lynnet Tall,66724,Draw
+771,6/21/2026,6:25 AM,China,Indonesia,Rose Bowl,Wolong,Vanny Bodocs,11792,Draw
+772,6/5/2026,7:35 AM,Russia,Nigeria,Soldier Field,Spitsevka,Philip Guppie,16491,Home Win
+773,6/4/2026,6:15 PM,Indonesia,Indonesia,etc.,Taklale,Michelina Daughtery,27955,Away Win
+774,7/7/2026,5:43 AM,Bangladesh,Poland,MetLife Stadium,Nabīnagar,Danya de Keep,16764,Home Win
+775,7/10/2026,9:57 PM,Isle of Man,China,etc.,Laxey,Leanora Hilland,87372,Away Win
+776,6/26/2026,6:14 PM,China,China,AT&T Stadium,Fenggao,Estelle Kelberer,48703,Away Win
+777,7/1/2026,5:14 AM,China,Mongolia,MetLife Stadium,Erdaojiang,Stafford Teaz,11153,Home Win
+778,6/20/2026,4:28 PM,Ukraine,Azerbaijan,AT&T Stadium,Slavuta,Rowena Burlingame,87511,Draw
+779,6/14/2026,10:07 PM,Indonesia,Croatia,AT&T Stadium,Panyindangan,Robina Cassells,26655,Home Win
+780,6/23/2026,10:44 PM,Brazil,China,etc.,Cametá,Tabitha Heales,39238,Away Win
+781,6/1/2026,10:31 AM,Ukraine,Indonesia,MetLife Stadium,Sholokhove,Robert Pasticznyk,63948,Away Win
+782,6/25/2026,12:09 PM,United States,Poland,MetLife Stadium,Milwaukee,Elyssa Tregidga,23734,Home Win
+783,7/8/2026,5:54 PM,China,China,AT&T Stadium,Guanlu,Carolynn Allmen,46441,Home Win
+784,7/1/2026,12:45 AM,Colombia,Portugal,Soldier Field,Yopal,Ailsun Hiddsley,52200,Draw
+785,7/12/2026,4:46 AM,Indonesia,United States,Soldier Field,Nempel,Sophia Wivell,42437,Away Win
+786,7/5/2026,8:33 PM,Philippines,Myanmar,Soldier Field,Lugait,Claus Larret,44631,Away Win
+787,6/22/2026,8:35 PM,China,France,MetLife Stadium,Baimajing,Haleigh Pasque,70585,Away Win
+788,7/1/2026,10:28 PM,Sri Lanka,Djibouti,Rose Bowl,Pita Kotte,Cortie Brumwell,33668,Away Win
+789,6/3/2026,2:44 PM,France,Brazil,AT&T Stadium,Vitry-le-François,Cecelia Keelin,92636,Draw
+790,7/4/2026,9:51 PM,Philippines,Indonesia,MetLife Stadium,Suklayin,Peyter Rojel,20437,Home Win
+791,6/9/2026,12:25 AM,Argentina,Poland,MetLife Stadium,General Conesa,Lisette Allbones,7010,Draw
+792,6/28/2026,6:54 PM,Poland,Canada,MetLife Stadium,Czerwionka-Leszczyny,Crissy Dalgleish,16692,Home Win
+793,7/12/2026,2:17 AM,Indonesia,Jamaica,Soldier Field,Citampian,Danni Grandisson,94148,Home Win
+794,6/1/2026,4:44 PM,Tanzania,Russia,etc.,Bugarama,Bertrand Stickley,68318,Draw
+795,6/8/2026,12:36 AM,China,Colombia,Rose Bowl,Shangdundu,Fania Douglas,3410,Draw
+796,7/13/2026,3:28 AM,Iran,Indonesia,Soldier Field,Qal‘eh Ganj,Lorelei Coom,47101,Away Win
+797,6/21/2026,2:20 PM,Poland,Czech Republic,MetLife Stadium,Żabno,Eldredge Tickel,36885,Away Win
+798,7/13/2026,10:19 PM,Greece,Indonesia,AT&T Stadium,Thessaloníki,Joel Stoner,78933,Away Win
+799,6/6/2026,6:04 PM,Philippines,Greece,AT&T Stadium,Usab,Ellwood Spoor,41374,Draw
+800,6/1/2026,2:49 PM,Nigeria,China,AT&T Stadium,Lafia,Lizbeth Luby,27854,Away Win
+801,7/10/2026,6:02 PM,France,Philippines,etc.,Valence,Gilberto Mathan,52745,Away Win
+802,6/30/2026,5:52 PM,Philippines,Lithuania,AT&T Stadium,Kagawasan,Hewitt Conboy,14935,Home Win
+803,7/3/2026,10:29 AM,Morocco,Indonesia,Soldier Field,Sidi Amar,Matthus Baldacco,95082,Draw
+804,6/20/2026,9:29 PM,Indonesia,Poland,Rose Bowl,Menampukrajan,Blakelee Durtnel,12118,Home Win
+805,6/5/2026,2:40 AM,Portugal,Peru,AT&T Stadium,Ribeiro,Desmund Clemenceau,77484,Draw
+806,7/8/2026,12:26 AM,South Africa,South Africa,Rose Bowl,Uitenhage,Skelly Gomer,55384,Home Win
+807,6/8/2026,7:10 AM,Poland,Japan,Rose Bowl,Wręczyca Wielka,Zia Garrattley,69349,Away Win
+808,6/21/2026,10:13 PM,China,Mexico,MetLife Stadium,Sanya,Homer Aimson,55284,Home Win
+809,6/14/2026,10:19 PM,Latvia,Canada,Soldier Field,Ādaži,Yvon Conniam,92387,Draw
+810,7/3/2026,6:25 AM,China,China,MetLife Stadium,Tiexi,Konstance Perel,63567,Draw
+811,6/10/2026,11:27 AM,Brazil,Russia,Rose Bowl,Armação de Búzios,Calvin Keward,71834,Away Win
+812,6/29/2026,12:58 PM,Portugal,Russia,Soldier Field,Lagoa de Albufeira,Bernelle Craighead,34422,Away Win
+813,6/16/2026,5:30 PM,Argentina,Indonesia,AT&T Stadium,Cipolletti,Ardine Batterham,78044,Home Win
+814,6/28/2026,10:12 PM,Palestinian Territory,Brazil,MetLife Stadium,Bayt Maqdūm,Brand Hammatt,50271,Away Win
+815,7/8/2026,1:31 PM,Serbia,Brazil,MetLife Stadium,Bajina Bašta,Laurette Drogan,63930,Draw
+816,6/26/2026,12:50 PM,Poland,Russia,Rose Bowl,Fordon,Phyllys Febre,98331,Draw
+817,7/8/2026,10:12 PM,Philippines,Poland,etc.,Bato,Cinnamon Debnam,32149,Draw
+818,6/13/2026,5:36 AM,United States,Russia,MetLife Stadium,Huntington Beach,Patrica Rotham,72002,Draw
+819,7/11/2026,10:01 PM,Philippines,Portugal,MetLife Stadium,San Luis,Lucinda Collop,83590,Draw
+820,6/27/2026,11:27 AM,China,Greece,AT&T Stadium,Xinwu,Maudie Prestney,6877,Draw
+821,6/18/2026,9:31 AM,China,Russia,Soldier Field,Heqiao,Ebenezer Dronsfield,96953,Home Win
+822,6/15/2026,8:21 AM,Poland,China,Rose Bowl,Sztum,Jordain Nevill,41074,Home Win
+823,6/4/2026,10:50 PM,Syria,China,Soldier Field,Souran,Kort Hulburd,58039,Away Win
+824,6/20/2026,12:47 PM,Indonesia,China,AT&T Stadium,Peuhaq,Fin McGuinley,1024,Away Win
+825,6/26/2026,8:49 PM,Indonesia,China,MetLife Stadium,Tambaksari,Jerald Snowding,10219,Home Win
+826,7/12/2026,5:26 AM,Philippines,China,Soldier Field,Malabago,Ignacio MacArdle,59803,Home Win
+827,6/6/2026,1:37 AM,Portugal,Indonesia,AT&T Stadium,Carreira,Mab Wickie,68170,Away Win
+828,7/14/2026,1:49 AM,Indonesia,Colombia,MetLife Stadium,Lawepakam,Barnard Leuty,16528,Away Win
+829,6/26/2026,11:29 AM,France,Dominican Republic,MetLife Stadium,Avon,Darryl Carah,78481,Away Win
+830,6/10/2026,2:03 AM,Indonesia,China,etc.,Ciawi,Whittaker Mahony,50832,Draw
+831,6/20/2026,7:50 PM,Albania,Canada,etc.,Dushk,Moreen Gilding,26016,Away Win
+832,6/6/2026,3:27 PM,Colombia,Poland,MetLife Stadium,Mutatá,Nara Sharma,95438,Away Win
+833,6/23/2026,11:41 PM,Russia,China,Soldier Field,Tsementnozavodskiy,Duff Valsler,86557,Away Win
+834,6/22/2026,3:41 PM,China,Czech Republic,MetLife Stadium,Longcang,Ailyn Seggie,77647,Home Win
+835,7/11/2026,4:48 AM,Netherlands,Indonesia,Soldier Field,Alkmaar,Jandy Ashdown,48838,Away Win
+836,6/25/2026,8:47 AM,China,Czech Republic,Rose Bowl,Mahe,Sadye Gibbie,10451,Home Win
+837,7/11/2026,7:16 PM,Russia,Indonesia,Rose Bowl,Ust’-Izhora,Aubert Sacks,71398,Home Win
+838,6/6/2026,10:26 PM,Indonesia,South Africa,MetLife Stadium,Cibunar,Pollyanna Hurdis,41313,Draw
+839,7/10/2026,2:32 PM,Philippines,Argentina,Soldier Field,Tranca,Peter Demangeot,51281,Draw
+840,6/29/2026,8:29 PM,Argentina,Mexico,etc.,Laboulaye,Alika Popple,63633,Away Win
+841,6/20/2026,8:07 PM,Colombia,Brazil,etc.,Flandes,Colene Royden,89497,Draw
+842,7/3/2026,2:11 AM,Chile,China,AT&T Stadium,Molina,Abbey Godber,70495,Home Win
+843,6/17/2026,9:20 PM,United States,China,Rose Bowl,Dallas,Donetta Furst,48967,Home Win
+844,6/10/2026,9:53 PM,Indonesia,United States,Soldier Field,Essang,Damita Bisacre,67353,Draw
+845,7/4/2026,4:13 PM,Honduras,Canada,Soldier Field,El Zapotal del Norte,Trina Leathlay,57638,Away Win
+846,7/5/2026,5:23 PM,Argentina,Canada,etc.,Campo Viera,Bruce Fullom,39862,Draw
+847,7/7/2026,5:11 PM,China,Indonesia,AT&T Stadium,Xingang,Konrad Schofield,70532,Away Win
+848,7/8/2026,8:00 PM,France,Indonesia,AT&T Stadium,Goussainville,Normie Sheffield,59872,Home Win
+849,6/24/2026,11:53 AM,Indonesia,South Korea,etc.,Jengglungharjo,Joela Ouldcott,15580,Draw
+850,7/10/2026,1:26 AM,Greece,Philippines,etc.,Tycheró,Gregory Spelling,57848,Home Win
+851,7/11/2026,3:48 AM,Colombia,Brazil,MetLife Stadium,La Argentina,Hiram Jacobsen,5939,Home Win
+852,6/22/2026,6:44 AM,Cameroon,Philippines,MetLife Stadium,Bertoua,Ilsa Bohden,21683,Draw
+853,6/6/2026,12:44 PM,Canada,Saint Vincent and the Grenadines,Rose Bowl,Parry Sound,Jeremiah Sheards,95521,Draw
+854,7/4/2026,7:46 AM,North Korea,Malaysia,AT&T Stadium,Hoeyang,Harwell Grishukov,6425,Away Win
+855,6/5/2026,9:55 PM,Spain,China,Soldier Field,Madrid,Georgine MacFadden,47504,Away Win
+856,7/5/2026,2:36 AM,Philippines,China,Rose Bowl,Can-asujan,Zola Zincke,99692,Away Win
+857,7/10/2026,8:24 PM,China,New Zealand,Rose Bowl,Heting,Claudell Boteman,53713,Home Win
+858,7/7/2026,2:15 AM,Vietnam,Egypt,AT&T Stadium,Tân Phú,Rosette Cornock,41943,Away Win
+859,6/27/2026,7:43 AM,Zimbabwe,Greece,MetLife Stadium,Mashava,Amos Bovaird,88095,Away Win
+860,7/4/2026,5:31 PM,Thailand,Norway,etc.,Chiang Mai,Pebrook Edelheit,69435,Home Win
+861,7/7/2026,11:40 PM,Bolivia,Spain,Rose Bowl,Concepción,Portia Caney,30770,Home Win
+862,6/14/2026,11:18 AM,Colombia,Syria,Soldier Field,Galapa,Janifer Lubomirski,9651,Away Win
+863,7/9/2026,8:14 AM,China,Gabon,Rose Bowl,Sanyang,Brade Bushel,95700,Home Win
+864,6/28/2026,6:49 AM,China,Indonesia,Rose Bowl,Gongyi,Marlowe Coathup,98943,Home Win
+865,6/14/2026,4:23 PM,Portugal,China,etc.,Fonte de Angeão,Bella Soame,34960,Draw
+866,7/3/2026,4:28 PM,Cameroon,Slovenia,AT&T Stadium,Bali,Brenda Gorner,81051,Draw
+867,6/22/2026,2:31 PM,Brazil,Indonesia,MetLife Stadium,Nossa Senhora do Socorro,Karlis Jiru,92944,Home Win
+868,7/12/2026,11:08 PM,Ethiopia,Russia,Soldier Field,Bako,Cecilia Athy,42287,Draw
+869,6/12/2026,6:51 PM,Sweden,France,AT&T Stadium,Norberg,Eleanor Dybbe,74089,Draw
+870,6/27/2026,1:30 AM,China,Indonesia,etc.,Chikeng,Dalt Rowly,33220,Home Win
+871,7/7/2026,5:15 PM,Mexico,China,Rose Bowl,Juarez,Rik Sudworth,31913,Home Win
+872,6/14/2026,5:57 PM,China,China,Rose Bowl,Nianpan,Martina Woodcraft,35345,Away Win
+873,7/2/2026,3:49 PM,Malaysia,Honduras,AT&T Stadium,Kuala Lumpur,Kassia Sams,17499,Away Win
+874,6/4/2026,12:18 AM,Czech Republic,United Arab Emirates,etc.,Město,Adolphus Adamsen,63054,Away Win
+875,6/9/2026,11:12 AM,Luxembourg,Philippines,MetLife Stadium,Strassen,Jere Veregan,67145,Draw
+876,6/15/2026,8:05 PM,China,Tanzania,Rose Bowl,Laifang,Modesty Stonham,15760,Home Win
+877,6/24/2026,8:33 AM,Tanzania,Chile,Soldier Field,Mgandu,El Orthmann,18051,Home Win
+878,6/2/2026,2:19 AM,Czech Republic,Czech Republic,etc.,Bavorov,Aloin Douce,6499,Away Win
+879,6/14/2026,7:27 AM,Indonesia,Russia,Rose Bowl,Mekarjaya Satu,Brantley Archbutt,1173,Draw
+880,7/4/2026,12:53 AM,Poland,Russia,MetLife Stadium,Stalowa Wola,Noell Dedenham,7769,Home Win
+881,6/7/2026,2:15 AM,Malaysia,Thailand,etc.,Kuala Lumpur,Dionne Hurring,29838,Away Win
+882,6/27/2026,9:38 PM,China,China,Soldier Field,Feilaixia,Trudi Leishman,54380,Home Win
+883,6/21/2026,10:45 PM,Yemen,Ukraine,Soldier Field,Sūq ar Rabū‘,Granger Gyford,69959,Draw
+884,6/14/2026,3:43 PM,Croatia,China,etc.,Marina,Forrest Hansman,83058,Draw
+885,7/2/2026,8:01 PM,Brazil,China,MetLife Stadium,Mendes,Nicolai Halston,22313,Draw
+886,7/3/2026,7:47 PM,Libya,China,MetLife Stadium,Mişrātah,Irvin Burnhams,81146,Home Win
+887,6/3/2026,5:53 AM,Philippines,Peru,etc.,Enrile,Yorke Macourek,24247,Away Win
+888,6/16/2026,1:52 AM,China,Samoa,etc.,Huaguoshan,Barry Jirieck,84585,Away Win
+889,6/6/2026,7:54 AM,France,Palestinian Territory,AT&T Stadium,Aubervilliers,Hewie Paskins,16991,Home Win
+890,7/14/2026,2:07 AM,Nigeria,Djibouti,AT&T Stadium,Bokani,Dorothee McAndie,62651,Away Win
+891,6/15/2026,5:49 AM,Malaysia,Czech Republic,Soldier Field,Kuala Terengganu,Rutherford Stonman,36062,Away Win
+892,6/19/2026,9:42 AM,China,Indonesia,Soldier Field,Minyue,Margo Gossage,81760,Draw
+893,6/21/2026,7:34 PM,Russia,China,AT&T Stadium,Vysokogornyy,Honey Boundey,39065,Home Win
+894,7/2/2026,3:35 AM,Dominican Republic,Denmark,Rose Bowl,Santiago de los Caballeros,Wileen Crees,69680,Draw
+895,7/8/2026,5:37 PM,China,Dominican Republic,AT&T Stadium,Hongshan,Percival Mutton,73633,Away Win
+896,6/7/2026,10:19 PM,Hungary,France,etc.,Dunaújváros,Corney Kirkpatrick,49431,Draw
+897,7/4/2026,7:05 PM,Myanmar,Angola,Rose Bowl,Hpa-an,Susie Foli,13283,Away Win
+898,7/14/2026,3:31 AM,Bosnia and Herzegovina,Finland,MetLife Stadium,Petkovci,Sylvan Minelli,35269,Draw
+899,6/3/2026,11:28 PM,Sweden,Sweden,etc.,Norrköping,Gertruda Orbell,88743,Away Win
+900,6/26/2026,11:05 AM,Indonesia,Philippines,AT&T Stadium,Bangbayang,Brittan Ranfield,20144,Away Win
+901,6/12/2026,9:51 AM,China,Poland,etc.,Dongjiao,Chrysler Chilcott,95827,Draw
+902,7/1/2026,3:52 AM,Indonesia,Indonesia,etc.,Windusakti Hilir,Jesse Hedworth,34178,Draw
+903,6/19/2026,10:35 PM,Russia,China,MetLife Stadium,Karagach,Heddi Laughlin,31913,Home Win
+904,6/14/2026,11:06 PM,Bangladesh,Tajikistan,Rose Bowl,Bera,Val Wyss,1953,Away Win
+905,6/9/2026,9:07 AM,Russia,Kosovo,Rose Bowl,Vereshchagino,Cordula Dutnell,37822,Home Win
+906,6/23/2026,5:13 AM,China,Indonesia,etc.,Linshe,Selie Simunek,79125,Draw
+907,6/16/2026,11:23 PM,China,Venezuela,Rose Bowl,Yangping,Cristobal Roderick,53844,Home Win
+908,6/9/2026,7:45 PM,Russia,Indonesia,AT&T Stadium,Shakhta,Sigismondo Grissett,37517,Away Win
+909,6/23/2026,7:06 AM,China,Indonesia,Rose Bowl,Yuci,Lezlie Biermatowicz,26913,Draw
+910,7/6/2026,1:38 PM,Indonesia,Bulgaria,Rose Bowl,Nampera,Nanette Solloway,18832,Away Win
+911,6/9/2026,2:26 PM,Russia,Belarus,etc.,Dzhiginka,Franky Penkethman,29152,Home Win
+912,6/28/2026,4:28 AM,Honduras,Japan,MetLife Stadium,Silca,Candie Oglevie,41412,Home Win
+913,6/22/2026,7:44 AM,Philippines,Nicaragua,MetLife Stadium,Bukid,Wylie De Cleyne,65530,Draw
+914,6/6/2026,11:13 PM,Finland,Norway,Soldier Field,Rääkkylä,Abner Hemphill,93581,Home Win
+915,6/29/2026,11:35 AM,Germany,China,AT&T Stadium,Köln,Amara Natt,25880,Home Win
+916,6/25/2026,10:31 AM,China,China,Soldier Field,Yaozhanzi,Amalie Lowfill,88433,Draw
+917,7/3/2026,5:49 PM,Portugal,Indonesia,MetLife Stadium,Tapado,Krishna Skirling,71064,Home Win
+918,6/24/2026,9:37 PM,Jamaica,Portugal,Soldier Field,Ewarton,Pierre Semens,6404,Away Win
+919,6/14/2026,6:02 PM,Thailand,Mali,Soldier Field,Mayo,Cammy Strathern,33613,Draw
+920,6/6/2026,12:55 AM,Libya,Philippines,AT&T Stadium,At Tāj,Addie Petofi,59977,Away Win
+921,7/13/2026,3:01 AM,South Africa,United States,MetLife Stadium,Ficksburg,Allys Riccardini,15818,Draw
+922,6/17/2026,2:25 AM,Equatorial Guinea,China,Soldier Field,Evinayong,Mariana Hosby,29443,Away Win
+923,6/13/2026,8:06 PM,China,Morocco,Rose Bowl,Bifeng,Bernita Lawman,92576,Draw
+924,6/23/2026,7:37 AM,Indonesia,Czech Republic,Rose Bowl,Bantilan,Trixie Tift,89076,Away Win
+925,6/17/2026,3:51 PM,China,Armenia,etc.,Samdo,Shaina Haton,94220,Home Win
+926,7/6/2026,8:44 AM,Paraguay,Russia,Soldier Field,Areguá,Guglielmo Lugton,7420,Away Win
+927,6/13/2026,2:04 PM,China,Indonesia,etc.,Yujia,Ruby Halloran,62662,Home Win
+928,6/24/2026,6:52 AM,Germany,Argentina,Rose Bowl,Hanau,Bank Maitland,77828,Away Win
+929,7/8/2026,3:18 PM,Sweden,Indonesia,etc.,Stockholm,Renate Rotham,43512,Draw
+930,6/11/2026,8:42 PM,Indonesia,Tanzania,AT&T Stadium,Purwodadi,Marven Ozelton,41506,Home Win
+931,6/5/2026,11:33 PM,China,Yemen,Soldier Field,Baoquanshan,Rudie Desouza,97899,Draw
+932,6/12/2026,7:28 AM,Russia,Bulgaria,AT&T Stadium,Komendantsky aerodrom,Sorcha Aleixo,60976,Away Win
+933,6/17/2026,11:14 AM,Czech Republic,Latvia,etc.,Velké Bílovice,Gwenore Tommei,36767,Away Win
+934,6/4/2026,8:12 PM,France,Russia,MetLife Stadium,Alençon,Nikki Pithie,82116,Draw
+935,6/29/2026,3:26 AM,Poland,China,MetLife Stadium,Józefów,Lillian Cameli,43919,Away Win
+936,6/2/2026,4:33 PM,France,Aruba,Rose Bowl,Niort,Myrtie Duckit,99994,Draw
+937,7/4/2026,7:42 PM,China,Denmark,etc.,Kuiyong,Daniela Castelin,86830,Away Win
+938,6/14/2026,2:58 PM,El Salvador,Indonesia,etc.,Metapán,Carling Pawlata,16942,Draw
+939,7/13/2026,10:59 PM,Russia,Albania,Rose Bowl,Uren’,Noel Trill,90345,Home Win
+940,7/9/2026,1:03 PM,France,Saint Kitts and Nevis,MetLife Stadium,L'Aigle,Betteanne Puddicombe,35531,Draw
+941,6/27/2026,3:30 PM,Philippines,China,Rose Bowl,Lombog,Con Dreghorn,64068,Draw
+942,6/10/2026,10:57 PM,China,Indonesia,MetLife Stadium,Yangdian,Monty Jeffes,59092,Draw
+943,6/5/2026,9:14 AM,Russia,Portugal,AT&T Stadium,Froly,Sydel Santori,99332,Home Win
+944,7/5/2026,7:46 PM,China,Spain,etc.,Songlong,Christin Studd,14624,Away Win
+945,7/3/2026,12:03 PM,China,Thailand,etc.,Dali,Deny Borgesio,84034,Away Win
+946,6/12/2026,10:01 PM,Pakistan,Philippines,Rose Bowl,Mīrpur Sakro,Allx Beekmann,22364,Draw
+947,6/21/2026,12:23 PM,Spain,Brazil,Rose Bowl,Elx/Elche,Eilis MacBain,70267,Draw
+948,6/12/2026,9:02 PM,Indonesia,Poland,etc.,Mari,Nealon Keeley,97531,Home Win
+949,7/14/2026,10:11 PM,Colombia,China,Soldier Field,Ayapel,Tracy Chilley,51919,Away Win
+950,7/5/2026,4:24 AM,Poland,United States,AT&T Stadium,Rymanów,Barrie Siggin,60638,Home Win
+951,6/13/2026,12:48 PM,Philippines,China,Rose Bowl,San Miguel,Foss Slaney,84886,Home Win
+952,6/28/2026,6:44 PM,Poland,Brazil,Rose Bowl,Gierłoż,Othello Bills,58310,Away Win
+953,6/4/2026,12:46 PM,Albania,France,MetLife Stadium,Remas,Hedda Beaty,86829,Away Win
+954,7/9/2026,1:20 AM,Thailand,Dominican Republic,Rose Bowl,Cha-am,Shadow Hubbart,99699,Home Win
+955,6/5/2026,12:06 PM,Canada,China,AT&T Stadium,Port Colborne,Gale Edes,15370,Draw
+956,7/10/2026,3:45 PM,Albania,South Korea,etc.,Librazhd-Qendër,Ulysses Whaymand,28459,Draw
+957,6/30/2026,8:28 PM,China,South Africa,AT&T Stadium,Erdaocha,Levi Andrieux,6458,Draw
+958,6/26/2026,4:59 PM,Indonesia,Russia,Rose Bowl,Langgapayung,Hayes Deares,27680,Home Win
+959,6/4/2026,4:50 AM,Russia,Russia,Rose Bowl,Komsomol’sk,Maurizia Betts,39956,Draw
+960,6/24/2026,9:57 AM,Brazil,China,Soldier Field,Tupanciretã,Johny Lehemann,53994,Draw
+961,6/15/2026,6:26 PM,China,Indonesia,Soldier Field,Guanting,Desmund Danaher,57258,Draw
+962,7/14/2026,4:16 AM,Russia,Russia,Rose Bowl,Pervomayskoye,Teddie Mingo,16232,Home Win
+963,6/9/2026,8:44 AM,Canada,Philippines,Soldier Field,Boissevain,Rycca Presdie,41549,Away Win
+964,6/7/2026,11:14 AM,Poland,Philippines,AT&T Stadium,Zambrów,Christos Manske,43442,Home Win
+965,7/12/2026,3:28 AM,Democratic Republic of the Congo,Poland,Soldier Field,Gemena,Janela Swalteridge,56718,Away Win
+966,7/10/2026,1:03 AM,New Zealand,Democratic Republic of the Congo,Soldier Field,Burnham,Conny Warner,33431,Away Win
+967,6/18/2026,8:24 PM,Burkina Faso,Indonesia,AT&T Stadium,Djibo,Cecily Lalevee,10799,Away Win
+968,6/17/2026,5:31 AM,Afghanistan,Paraguay,etc.,Sar Chakān,Manda Gartan,46357,Draw
+969,6/1/2026,7:42 PM,Thailand,Colombia,Rose Bowl,Chok Chai,Glenn Walbridge,50209,Home Win
+970,6/4/2026,12:16 PM,Guatemala,Venezuela,MetLife Stadium,Joyabaj,Adamo O'Scollain,28242,Draw
+971,6/10/2026,3:02 AM,Brazil,Bangladesh,AT&T Stadium,Guaxupé,Josepha Geri,69552,Away Win
+972,7/7/2026,12:43 AM,China,China,AT&T Stadium,Huangdao,Nananne Grummitt,24016,Draw
+973,6/18/2026,5:09 PM,China,Russia,AT&T Stadium,Tumu’ertai,Zaccaria O'Shirine,65572,Away Win
+974,6/13/2026,4:37 PM,Indonesia,Philippines,Rose Bowl,Babakandesa,Marge Jura,5202,Home Win
+975,7/3/2026,12:16 PM,Uruguay,Iraq,MetLife Stadium,Mercedes,Marthena Mc Kellen,26994,Draw
+976,7/12/2026,4:50 PM,China,Syria,etc.,Hedong,Dolley Gradley,51981,Away Win
+977,6/22/2026,2:10 AM,Portugal,Portugal,AT&T Stadium,Praia das Maçãs,Torrance Della,50223,Draw
+978,6/4/2026,9:50 AM,Israel,Sweden,MetLife Stadium,Lapid,Kelley Fullun,39394,Draw
+979,6/20/2026,6:34 AM,Philippines,Philippines,MetLife Stadium,Bilar,Candi Andryushchenko,83678,Away Win
+980,6/3/2026,7:58 AM,Philippines,Portugal,etc.,Dahay,Fleming Kerrich,59418,Away Win
+981,7/7/2026,11:18 PM,Armenia,Indonesia,etc.,Vanadzor,Wolfy Molden,13124,Home Win
+982,6/3/2026,4:35 PM,United States,Thailand,MetLife Stadium,Las Vegas,Dominica Arckoll,93458,Draw
+983,6/27/2026,6:01 PM,Poland,Libya,MetLife Stadium,Leśnica,Bevvy Pracy,66305,Draw
+984,6/28/2026,9:11 PM,Russia,Poland,MetLife Stadium,Kanash,Jeth Gorsse,63022,Home Win
+985,7/5/2026,8:02 PM,France,China,Rose Bowl,Lescar,Kordula Muschette,34421,Draw
+986,7/8/2026,5:19 AM,South Georgia and the South Sandwich Islands,United States,AT&T Stadium,Grytviken,Danella Cunniff,3877,Draw
+987,7/11/2026,6:17 PM,Philippines,China,Rose Bowl,Lumbangan,Korey Scanterbury,6975,Away Win
+988,6/2/2026,6:55 PM,Portugal,Indonesia,AT&T Stadium,Amieiro,Luigi Twamley,26355,Away Win
+989,6/10/2026,5:05 AM,Indonesia,Philippines,Soldier Field,Gesikan,Lion Feaver,98120,Away Win
+990,6/18/2026,5:52 PM,China,Brazil,MetLife Stadium,Guankou,Jaquelin Roony,83743,Draw
+991,6/9/2026,8:24 AM,Sweden,Netherlands,Rose Bowl,Åkersberga,Charil Lapham,42486,Away Win
+992,6/12/2026,4:24 AM,Indonesia,Russia,etc.,Lampihung,Deina Sugge,36905,Away Win
+993,6/15/2026,11:10 PM,Indonesia,Brazil,Rose Bowl,Nangger,Aileen Dahlen,95950,Away Win
+994,7/14/2026,6:57 PM,Kazakhstan,Colombia,Rose Bowl,Asykata,Elinor Lucus,3246,Draw
+995,7/8/2026,12:29 AM,Ukraine,Greece,Soldier Field,Uzyn,Keefer Clayden,77321,Draw
+996,6/16/2026,9:21 PM,Palestinian Territory,China,MetLife Stadium,Bethlehem,Lek Havvock,50006,Home Win
+997,6/16/2026,9:43 AM,Peru,Ghana,MetLife Stadium,Anta,Mitchel Sanches,68620,Home Win
+998,6/13/2026,4:04 PM,China,Argentina,MetLife Stadium,Jincheng,Amble Baldrey,84043,Draw
+999,7/12/2026,1:20 AM,Serbia,Indonesia,Soldier Field,Taraš,Dall Hubbold,32002,Away Win
+1000,6/22/2026,2:55 PM,Ethiopia,China,MetLife Stadium,Jijiga,Bevvy Hartwell,54789,Away Win
